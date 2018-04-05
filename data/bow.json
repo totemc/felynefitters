@@ -1,0 +1,4645 @@
+[{
+	"id": 1075,
+	"slug": "iron-bow-1",
+	"name": "Iron Bow 1",
+	"type": "bow",
+	"rarity": 1,
+	"attributes": {
+		"attack": 96,
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1076],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1076,
+	"slug": "iron-bow-2",
+	"name": "Iron Bow 2",
+	"type": "bow",
+	"rarity": 1,
+	"attributes": {
+		"attack": 108,
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1075,
+		"branches": [1077, 1085, 1099],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1077,
+	"slug": "iron-bow-3",
+	"name": "Iron Bow 3",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 120,
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1076,
+		"branches": [1078],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1078,
+	"slug": "steel-bow-1",
+	"name": "Steel Bow 1",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 132,
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1077,
+		"branches": [1079],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1079,
+	"slug": "steel-bow-2",
+	"name": "Steel Bow 2",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 156,
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1078,
+		"branches": [1080],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1080,
+	"slug": "steel-bow-3",
+	"name": "Steel Bow 3",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 168,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 90,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1079,
+		"branches": [1081],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1081,
+	"slug": "alloy-bow-1",
+	"name": "Alloy Bow 1",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 180,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 120,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1080,
+		"branches": [1082, 1083],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1082,
+	"slug": "alloy-bow-2",
+	"name": "Alloy Bow 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"slotsRank2": 2,
+		"elementHidden": true,
+		"elementDamage": 150,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1081,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 20,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 13,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1083,
+	"slug": "nergal-whisper",
+	"name": "Nergal Whisper",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 228,
+		"slotsRank1": 1,
+		"elementDamage": 120,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1081,
+		"branches": [1084],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 406,
+				"name": "Nergigante Carapace",
+				"description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 410,
+				"name": "Nergigante Regrowth Plate",
+				"description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 407,
+				"name": "Nergigante Tail",
+				"description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1084,
+	"slug": "dooms-shaft",
+	"name": "Doom's Shaft",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1083,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 411,
+				"name": "Nergigante Gem",
+				"description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 408,
+				"name": "Nergigante Horn+",
+				"description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 440,
+				"name": "Xeno'jiiva Horn",
+				"description": "A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1085,
+	"slug": "kulu-arrow-1",
+	"name": "Kulu Arrow 1",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 120,
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1076,
+		"branches": [1086, 1093],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 221,
+				"name": "Kulu-Ya-Ku Hide",
+				"description": "Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 220,
+				"name": "Kulu-Ya-Ku Scale",
+				"description": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1086,
+	"slug": "kulu-arrow-2",
+	"name": "Kulu Arrow 2",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 132,
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1085,
+		"branches": [1087],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 222,
+				"name": "Kulu-Ya-Ku Plume",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 310,
+				"name": "Radobaan Scale",
+				"description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1087,
+	"slug": "kulu-arrow-3",
+	"name": "Kulu Arrow 3",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 156,
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1086,
+		"branches": [1088],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 222,
+				"name": "Kulu-Ya-Ku Plume",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 331,
+				"name": "Odogaron Claw",
+				"description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1088,
+	"slug": "archers-dance-1",
+	"name": "Archer's Dance 1",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 180,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 1087,
+		"branches": [1089, 1091],
+		"craftingMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 225,
+				"name": "Kulu-Ya-Ku Hide+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 224,
+				"name": "Kulu-Ya-Ku Scale+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 225,
+				"name": "Kulu-Ya-Ku Hide+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 224,
+				"name": "Kulu-Ya-Ku Scale+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1089,
+	"slug": "archers-dance-2",
+	"name": "Archer's Dance 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 192,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1088,
+		"branches": [1090],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 142,
+				"name": "Brutal Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 226,
+				"name": "Kulu-Ya-Ku Plume+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 337,
+				"name": "Odogaron Claw+",
+				"description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1090,
+	"slug": "archers-dance-3",
+	"name": "Archer's Dance 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"elementHidden": true,
+		"elementDamage": 270,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1089,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 226,
+				"name": "Kulu-Ya-Ku Plume+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1091,
+	"slug": "brazencord",
+	"name": "Brazencord",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"slotsRank3": 1,
+		"elementDamage": 120,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1088,
+		"branches": [1092],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 392,
+				"name": "Uragaan Carapace",
+				"description": "Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 393,
+				"name": "Uragaan Jaw",
+				"description": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 395,
+				"name": "Uragaan Marrow",
+				"description": "Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 391,
+				"name": "Uragaan Scale+",
+				"description": "Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1092,
+	"slug": "gigacles",
+	"name": "Gigacles",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 228,
+		"slotsRank3": 1,
+		"elementDamage": 150,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1091,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 420,
+				"name": "Teostra Carapace",
+				"description": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 393,
+				"name": "Uragaan Jaw",
+				"description": "Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 396,
+				"name": "Uragaan Ruby",
+				"description": "A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 394,
+				"name": "Uragaan Scute",
+				"description": "Rare Uragaan material. Obtained by carving its severed tail. Highly heat resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1093,
+	"slug": "princess-arrow-1",
+	"name": "Princess Arrow 1",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 132,
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1085,
+		"branches": [1094, 1096],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 274,
+				"name": "Rathian Scale",
+				"description": "Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 275,
+				"name": "Rathian Shell",
+				"description": "Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 277,
+				"name": "Rathian Spike",
+				"description": "Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1094,
+	"slug": "princess-arrow-2",
+	"name": "Princess Arrow 2",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 192,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1093,
+		"branches": [1095],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 280,
+				"name": "Rathian Carapace",
+				"description": "Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 278,
+				"name": "Rathian Plate",
+				"description": "Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 279,
+				"name": "Rathian Scale+",
+				"description": "Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 281,
+				"name": "Rathian Spike+",
+				"description": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1095,
+	"slug": "princess-arrow-3",
+	"name": "Princess Arrow 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 216,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1094,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 283,
+				"name": "Pink Rathian Scale+",
+				"description": "Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 282,
+				"name": "Rathian Ruby",
+				"description": "A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 281,
+				"name": "Rathian Spike+",
+				"description": "Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1096,
+	"slug": "rathslinger-1",
+	"name": "Rathslinger 1",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 144,
+		"elementDamage": 150,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1093,
+		"branches": [1097],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 164,
+				"name": "Flame Sac",
+				"description": "A monster organ filled with flammable powder. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 344,
+				"name": "Rath Wingtalon",
+				"description": "Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 345,
+				"name": "Rathalos Marrow",
+				"description": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 341,
+				"name": "Rathalos Shell",
+				"description": "Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1097,
+	"slug": "rathslinger-2",
+	"name": "Rathslinger 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"slotsRank1": 1,
+		"elementDamage": 210,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1096,
+		"branches": [1098],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 348,
+				"name": "Rathalos Carapace",
+				"description": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 350,
+				"name": "Rathalos Medulla",
+				"description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 347,
+				"name": "Rathalos Scale+",
+				"description": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 349,
+				"name": "Rathalos Wing",
+				"description": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1098,
+	"slug": "rathslinger-3",
+	"name": "Rathslinger 3",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 216,
+		"slotsRank1": 1,
+		"elementDamage": 240,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1097,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 353,
+				"name": "Azure Rathalos Carapace",
+				"description": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 352,
+				"name": "Azure Rathalos Scale+",
+				"description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 355,
+				"name": "Azure Rathalos Wing",
+				"description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 351,
+				"name": "Rathalos Ruby",
+				"description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1099,
+	"slug": "aqua-arrow-1",
+	"name": "Aqua Arrow 1",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 120,
+		"elementDamage": 90,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1076,
+		"branches": [1100, 1102],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 166,
+				"name": "Aqua Sac",
+				"description": "A monster organ designed to hold and preserve water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 246,
+				"name": "Jyuratodus Scale",
+				"description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 247,
+				"name": "Jyuratodus Shell",
+				"description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1100,
+	"slug": "aqua-arrow-2",
+	"name": "Aqua Arrow 2",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 132,
+		"elementDamage": 120,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1099,
+		"branches": [1101, 1105],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 187,
+				"name": "Gajau Skin",
+				"description": "Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 249,
+				"name": "Jyuratodus Fin",
+				"description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1101,
+	"slug": "aqua-arrow-3",
+	"name": "Aqua Arrow 3",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 144,
+		"elementDamage": 150,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1100,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 188,
+				"name": "Gajau Whisker",
+				"description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1102,
+	"slug": "water-shot-1",
+	"name": "Water Shot 1",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 168,
+		"slotsRank2": 1,
+		"elementDamage": 180,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1099,
+		"branches": [1103, 1105],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 189,
+				"name": "Gajau Scale",
+				"description": "Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 251,
+				"name": "Jyuratodus Carapace",
+				"description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 250,
+				"name": "Jyuratodus Scale+",
+				"description": "Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1103,
+	"slug": "water-shot-2",
+	"name": "Water Shot 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 180,
+		"slotsRank2": 1,
+		"elementDamage": 210,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1102,
+		"branches": [1104],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 190,
+				"name": "Grand Gajau Whisker",
+				"description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 167,
+				"name": "Torrent Sac",
+				"description": "A monster organ designed to hold and preserve copious amounts of water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1104,
+	"slug": "water-shot-3",
+	"name": "Water Shot 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"slotsRank3": 1,
+		"elementDamage": 240,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1103,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 252,
+				"name": "Jyuratodus Fang+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1105,
+	"slug": "glacial-arrow-1",
+	"name": "Glacial Arrow 1",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 144,
+		"elementDamage": 270,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Poison", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1100,
+		"branches": [1106, 1107],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 168,
+				"name": "Frost Sac",
+				"description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 318,
+				"name": "Legiana Scale",
+				"description": "Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1106,
+	"slug": "glacial-arrow-2",
+	"name": "Glacial Arrow 2",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 156,
+		"elementDamage": 330,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Poison", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1105,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 323,
+				"name": "Legiana Plate",
+				"description": "Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 322,
+				"name": "Legiana Tail Webbing",
+				"description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 300,
+				"name": "Paolumu Wing",
+				"description": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1107,
+	"slug": "snowfletcher",
+	"name": "Snowfletcher",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 168,
+		"elementDamage": 360,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Poison", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1105,
+		"branches": [1108],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 169,
+				"name": "Freezer Sac",
+				"description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 324,
+				"name": "Legiana Scale+",
+				"description": "Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 327,
+				"name": "Legiana Wing",
+				"description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1108,
+	"slug": "legia-snowfletcher",
+	"name": "Legia Snowfletcher",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 180,
+		"elementDamage": 390,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Poison", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1107,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 328,
+				"name": "Legiana Gem",
+				"description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 325,
+				"name": "Legiana Hide+",
+				"description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1109,
+	"slug": "hunters-bow-1",
+	"name": "Hunter's Bow 1",
+	"type": "bow",
+	"rarity": 1,
+	"attributes": {
+		"attack": 120,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1110],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1110,
+	"slug": "hunters-bow-2",
+	"name": "Hunter's Bow 2",
+	"type": "bow",
+	"rarity": 1,
+	"attributes": {
+		"attack": 132,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1109,
+		"branches": [1111, 1124, 1135],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1111,
+	"slug": "hunters-bow-3",
+	"name": "Hunter's Bow 3",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 144,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1110,
+		"branches": [1112],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1112,
+	"slug": "hunters-stoutbow-1",
+	"name": "Hunter's Stoutbow 1",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 156,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1111,
+		"branches": [1113, 1119],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1113,
+	"slug": "hunters-stoutbow-2",
+	"name": "Hunter's Stoutbow 2",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 168,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1112,
+		"branches": [1114],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1114,
+	"slug": "hunters-stoutbow-3",
+	"name": "Hunter's Stoutbow 3",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 180,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1113,
+		"branches": [1115],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1115,
+	"slug": "hunters-proudbow-1",
+	"name": "Hunter's Proudbow 1",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 192,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 300,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1114,
+		"branches": [1116, 1117],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1116,
+	"slug": "hunters-proudbow-2",
+	"name": "Hunter's Proudbow 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 216,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 360,
+		"elementType": "Water",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1115,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 20,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1117,
+	"slug": "hazak-velos-1",
+	"name": "Hazak Velos 1",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 216,
+		"slotsRank2": 1,
+		"elementDamage": 240,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1115,
+		"branches": [1118],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 412,
+				"name": "Deceased Scale",
+				"description": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 416,
+				"name": "Vaal Hazak Fang+",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 414,
+				"name": "Vaal Hazak Membrane",
+				"description": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 417,
+				"name": "Vaal Hazak Talon",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1118,
+	"slug": "hazak-velos-2",
+	"name": "Hazak Velos 2",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 228,
+		"slotsRank2": 1,
+		"elementDamage": 270,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1117,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 419,
+				"name": "Vaal Hazak Gem",
+				"description": "A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 415,
+				"name": "Vaal Hazak Tail",
+				"description": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 417,
+				"name": "Vaal Hazak Talon",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 438,
+				"name": "Xeno'jiiva Veil",
+				"description": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1119,
+	"slug": "diablos-bow-1",
+	"name": "Diablos Bow 1",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 192,
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1112,
+		"branches": [1120],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 359,
+				"name": "Diablos Fang",
+				"description": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 356,
+				"name": "Diablos Shell",
+				"description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 360,
+				"name": "Twisted Horn",
+				"description": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1120,
+	"slug": "diablos-bow-2",
+	"name": "Diablos Bow 2",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 216,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 60,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1119,
+		"branches": [1121],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 361,
+				"name": "Diablos Marrow",
+				"description": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 357,
+				"name": "Diablos Ridge",
+				"description": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 358,
+				"name": "Diablos Tailcase",
+				"description": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1121,
+	"slug": "diablos-coilbender",
+	"name": "Diablos Coilbender",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 90,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 1120,
+		"branches": [1122],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 365,
+				"name": "Blos Medulla",
+				"description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 363,
+				"name": "Diablos Ridge+",
+				"description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 364,
+				"name": "Majestic Horn",
+				"description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 365,
+				"name": "Blos Medulla",
+				"description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 362,
+				"name": "Diablos Carapace",
+				"description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 363,
+				"name": "Diablos Ridge+",
+				"description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 364,
+				"name": "Majestic Horn",
+				"description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1122,
+	"slug": "galebender",
+	"name": "Galebender",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 252,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 120,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1121,
+		"branches": [1123],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 366,
+				"name": "Black Diablos Carapace",
+				"description": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 367,
+				"name": "Black Diablos Ridge+",
+				"description": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 368,
+				"name": "Black Spiral Horn+",
+				"description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1123,
+	"slug": "cera-coilbender",
+	"name": "Cera Coilbender",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 264,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 150,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1122,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 366,
+				"name": "Black Diablos Carapace",
+				"description": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 368,
+				"name": "Black Spiral Horn+",
+				"description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 439,
+				"name": "Xeno'jiiva Tail",
+				"description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1124,
+	"slug": "blooming-arch-1",
+	"name": "Blooming Arch 1",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 144,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1110,
+		"branches": [1125, 1130],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 228,
+				"name": "Pukei-Pukei Scale",
+				"description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1125,
+	"slug": "blooming-arch-2",
+	"name": "Blooming Arch 2",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 156,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1124,
+		"branches": [1126],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 229,
+				"name": "Pukei-Pukei Shell",
+				"description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 232,
+				"name": "Pukei-Pukei Tail",
+				"description": "Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1126,
+	"slug": "blooming-arch-3",
+	"name": "Blooming Arch 3",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 168,
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1125,
+		"branches": [1127],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1127,
+	"slug": "datura-string-1",
+	"name": "Datura String 1",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 180,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1126,
+		"branches": [1128],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 233,
+				"name": "Pukei-Pukei Scale+",
+				"description": "Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1128,
+	"slug": "datura-string-2",
+	"name": "Datura String 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 192,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1127,
+		"branches": [1129],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 234,
+				"name": "Pukei-Pukei Carapace",
+				"description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1129,
+	"slug": "datura-string-3",
+	"name": "Datura String 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 204,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1128,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 236,
+				"name": "Pukei-Pukei Sac+",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 418,
+				"name": "Vaal Hazak Wing",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1130,
+	"slug": "blazing-bow-1",
+	"name": "Blazing Bow 1",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 156,
+		"elementDamage": 210,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1124,
+		"branches": [1131],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 265,
+				"name": "Anjanath Fang",
+				"description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 263,
+				"name": "Anjanath Scale",
+				"description": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 164,
+				"name": "Flame Sac",
+				"description": "A monster organ filled with flammable powder. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1131,
+	"slug": "blazing-bow-2",
+	"name": "Blazing Bow 2",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 168,
+		"elementDamage": 270,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1130,
+		"branches": [1132],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 265,
+				"name": "Anjanath Fang",
+				"description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 266,
+				"name": "Anjanath Nosebone",
+				"description": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 267,
+				"name": "Anjanath Tail",
+				"description": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 345,
+				"name": "Rathalos Marrow",
+				"description": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1132,
+	"slug": "anja-arch-1",
+	"name": "Anja Arch 1",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 192,
+		"elementDamage": 330,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1131,
+		"branches": [1133],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 271,
+				"name": "Anjanath Fang+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 268,
+				"name": "Anjanath Plate",
+				"description": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 269,
+				"name": "Anjanath Scale+",
+				"description": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 165,
+				"name": "Inferno Sac",
+				"description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1133,
+	"slug": "anja-arch-2",
+	"name": "Anja Arch 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 216,
+		"elementDamage": 360,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1132,
+		"branches": [1134],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 271,
+				"name": "Anjanath Fang+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 270,
+				"name": "Anjanath Pelt+",
+				"description": "Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 350,
+				"name": "Rathalos Medulla",
+				"description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1134,
+	"slug": "anja-arch-3",
+	"name": "Anja Arch 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"elementDamage": 390,
+		"elementType": "Fire",
+		"coatings": ["Close Range", "Power", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1133,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 271,
+				"name": "Anjanath Fang+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 273,
+				"name": "Anjanath Gem",
+				"description": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 272,
+				"name": "Anjanath Nosebone+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 421,
+				"name": "Teostra Mane",
+				"description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1135,
+	"slug": "pulsar-bow-1",
+	"name": "Pulsar Bow 1",
+	"type": "bow",
+	"rarity": 2,
+	"attributes": {
+		"attack": 144,
+		"elementDamage": 150,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1110,
+		"branches": [1136],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 257,
+				"name": "Tobi-Kadachi Claw",
+				"description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 255,
+				"name": "Tobi-Kadachi Pelt",
+				"description": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 254,
+				"name": "Tobi-Kadachi Scale",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1136,
+	"slug": "pulsar-bow-2",
+	"name": "Pulsar Bow 2",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 156,
+		"elementDamage": 180,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1135,
+		"branches": [1137],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 170,
+				"name": "Electro Sac",
+				"description": "A monster organ that can store up electricity, which is released on impact.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 257,
+				"name": "Tobi-Kadachi Claw",
+				"description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1137,
+	"slug": "pulsar-bow-3",
+	"name": "Pulsar Bow 3",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 168,
+		"elementDamage": 210,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1136,
+		"branches": [1138],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 256,
+				"name": "Tobi-Kadachi Membrane",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1138,
+	"slug": "kadachi-strikebow",
+	"name": "Kadachi Strikebow",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 180,
+		"slotsRank1": 1,
+		"elementDamage": 250,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1137,
+		"branches": [1139],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 260,
+				"name": "Tobi-Kadachi Pelt+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 259,
+				"name": "Tobi-Kadachi Scale+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1139,
+	"slug": "flying-kadachi-strikebow",
+	"name": "Flying Kadachi Strikebow",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 204,
+		"slotsRank1": 1,
+		"elementDamage": 270,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Power", "Paralysis"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1138,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 262,
+				"name": "Tobi-Kadachi Electrode+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1140,
+	"slug": "dragonbone-bow-1",
+	"name": "Dragonbone Bow 1",
+	"type": "bow",
+	"rarity": 3,
+	"attributes": {
+		"attack": 120,
+		"elementDamage": 300,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Paralysis", "Sleep"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1141],
+		"craftingMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 140,
+				"name": "Coral Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1141,
+	"slug": "dragonbone-bow-2",
+	"name": "Dragonbone Bow 2",
+	"type": "bow",
+	"rarity": 4,
+	"attributes": {
+		"attack": 132,
+		"elementDamage": 360,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Paralysis", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1140,
+		"branches": [1142],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1142,
+	"slug": "dragonbone-bow-3",
+	"name": "Dragonbone Bow 3",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 180,
+		"slotsRank1": 2,
+		"elementDamage": 420,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Paralysis", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1141,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 142,
+				"name": "Brutal Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1143,
+	"slug": "blacksteel-bow-1",
+	"name": "Blacksteel Bow 1",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 120,
+		"elementDamage": 120,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Paralysis", "Sleep"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1144],
+		"craftingMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1144,
+	"slug": "blacksteel-bow-2",
+	"name": "Blacksteel Bow 2",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 132,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Paralysis", "Sleep"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1143,
+		"branches": [1145, 1147],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1145,
+	"slug": "icesteel-bow",
+	"name": "Icesteel Bow",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 192,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementDamage": 210,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1144,
+		"branches": [1146],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 433,
+				"name": "Daora Tail",
+				"description": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 431,
+				"name": "Daora Webbing",
+				"description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 406,
+				"name": "Nergigante Carapace",
+				"description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1146,
+	"slug": "daoras-sagittarii",
+	"name": "Daora's Sagittarii",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 204,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementDamage": 240,
+		"elementType": "Ice",
+		"coatings": ["Close Range", "Power"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1145,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 435,
+				"name": "Daora Gem",
+				"description": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 432,
+				"name": "Daora Horn+",
+				"description": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 442,
+				"name": "Xeno'jiiva Wing",
+				"description": "A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1147,
+	"slug": "xeno-metora",
+	"name": "Xeno Metora",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 204,
+		"slotsRank3": 2,
+		"elementDamage": 180,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Poison", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1144,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 441,
+				"name": "Xeno'jiiva Claw",
+				"description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 443,
+				"name": "Xeno'jiiva Gem",
+				"description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 439,
+				"name": "Xeno'jiiva Tail",
+				"description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1148,
+	"slug": "cross-hunters-bow",
+	"name": "Cross Hunter's Bow",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 216,
+		"slotsRank3": 1,
+		"elementDamage": 120,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Poison", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1149],
+		"craftingMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 489,
+				"name": "Barroth Coin",
+				"description": "A coin given to those who have bested a Barroth in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 495,
+				"name": "Hunter King Coin",
+				"description": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 491,
+				"name": "Rathalos Coin",
+				"description": "A coin given to those who have bested a Rathalos in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1149,
+	"slug": "great-hunters-bow",
+	"name": "Great Hunter's Bow",
+	"type": "bow",
+	"rarity": 8,
+	"attributes": {
+		"attack": 228,
+		"slotsRank3": 1,
+		"elementDamage": 150,
+		"elementType": "Blast",
+		"coatings": ["Close Range", "Paralysis", "Poison", "Sleep", "Blast"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1148,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 496,
+				"name": "Ace Hunter Coin",
+				"description": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 492,
+				"name": "Brute Coin",
+				"description": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 493,
+				"name": "Flying Coin",
+				"description": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1176,
+	"slug": "insurgents-bow",
+	"name": "Insurgent's Bow",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 252,
+		"slotsRank3": 1,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1177],
+		"craftingMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 522,
+				"name": "Deviljho Saliva",
+				"description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 516,
+				"name": "Deviljho Scale",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 519,
+				"name": "Deviljho Talon",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1177,
+	"slug": "villainous-bow",
+	"name": "Villainous Bow",
+	"type": "bow",
+	"rarity": 7,
+	"attributes": {
+		"attack": 276,
+		"slotsRank3": 1,
+		"elementDamage": 210,
+		"elementType": "Dragon",
+		"coatings": ["Close Range", "Power", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1176,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 523,
+				"name": "Deviljho Gem",
+				"description": "A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 520,
+				"name": "Deviljho Scalp",
+				"description": "Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}]

@@ -1,0 +1,6610 @@
+[{
+	"id": 996,
+	"slug": "iron-assault-1",
+	"name": "Iron Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 1,
+	"attributes": {
+		"attack": 150,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [997],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 997,
+	"slug": "iron-assault-2",
+	"name": "Iron Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 1,
+	"attributes": {
+		"attack": 165,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 996,
+		"branches": [998, 1006, 1020],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 998,
+	"slug": "iron-assault-3",
+	"name": "Iron Assault 3",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 180,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 997,
+		"branches": [999],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 999,
+	"slug": "steel-assault-1",
+	"name": "Steel Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 998,
+		"branches": [1000],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1000,
+	"slug": "steel-assault-2",
+	"name": "Steel Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 999,
+		"branches": [1001],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1001,
+	"slug": "steel-assault-3",
+	"name": "Steel Assault 3",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 225,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1000,
+		"branches": [1002],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1002,
+	"slug": "chrome-assault-1",
+	"name": "Chrome Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1001,
+		"branches": [1003, 1004],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1003,
+	"slug": "chrome-assault-2",
+	"name": "Chrome Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 5, 4],
+			"spread": [6, 0, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 3],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1002,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 20,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 13,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1004,
+	"slug": "nergal-roar",
+	"name": "Nergal Roar",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 270,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 0, 0],
+			"spread": [1, 3, 3],
+			"sticky": [0, 2, 1],
+			"cluster": [0, 0, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [0, 1],
+			"sleep": [0, 1],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [4],
+			"freeze": [4],
+			"thunder": [0],
+			"dragon": [2],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1002,
+		"branches": [1005],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 406,
+				"name": "Nergigante Carapace",
+				"description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 410,
+				"name": "Nergigante Regrowth Plate",
+				"description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 407,
+				"name": "Nergigante Tail",
+				"description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1005,
+	"slug": "destructions-fusillade",
+	"name": "Destruction's Fusillade",
+	"type": "heavy-bowgun",
+	"rarity": 8,
+	"attributes": {
+		"attack": 285,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 0, 0],
+			"spread": [1, 3, 3],
+			"sticky": [0, 2, 1],
+			"cluster": [0, 0, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [0, 1],
+			"sleep": [0, 1],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [4],
+			"freeze": [4],
+			"thunder": [0],
+			"dragon": [2],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1004,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 411,
+				"name": "Nergigante Gem",
+				"description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 408,
+				"name": "Nergigante Horn+",
+				"description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 440,
+				"name": "Xeno'jiiva Horn",
+				"description": "A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1006,
+	"slug": "aqua-assault-1",
+	"name": "Aqua Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 180,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 997,
+		"branches": [1007, 1012],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 166,
+				"name": "Aqua Sac",
+				"description": "A monster organ designed to hold and preserve water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 246,
+				"name": "Jyuratodus Scale",
+				"description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 247,
+				"name": "Jyuratodus Shell",
+				"description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1007,
+	"slug": "aqua-assault-2",
+	"name": "Aqua Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1006,
+		"branches": [1008],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 187,
+				"name": "Gajau Skin",
+				"description": "Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 249,
+				"name": "Jyuratodus Fin",
+				"description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1008,
+	"slug": "aqua-assault-3",
+	"name": "Aqua Assault 3",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1007,
+		"branches": [1009],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 188,
+				"name": "Gajau Whisker",
+				"description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1009,
+	"slug": "water-cannon-1",
+	"name": "Water Cannon 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 225,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1008,
+		"branches": [1010],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 189,
+				"name": "Gajau Scale",
+				"description": "Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 251,
+				"name": "Jyuratodus Carapace",
+				"description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 250,
+				"name": "Jyuratodus Scale+",
+				"description": "Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1010,
+	"slug": "water-cannon-2",
+	"name": "Water Cannon 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1009,
+		"branches": [1011],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 190,
+				"name": "Grand Gajau Whisker",
+				"description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 167,
+				"name": "Torrent Sac",
+				"description": "A monster organ designed to hold and preserve copious amounts of water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1011,
+	"slug": "water-cannon-3",
+	"name": "Water Cannon 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [6, 5, 0],
+			"spread": [6, 3, 0],
+			"sticky": [4, 3, 0],
+			"cluster": [1, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 5],
+			"paralysis": [1, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [7],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1010,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 252,
+				"name": "Jyuratodus Fang+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1012,
+	"slug": "luminous-assault-1",
+	"name": "Luminous Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 3, 3],
+			"sticky": [4, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [2, 2],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 3],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1006,
+		"branches": [1013, 1017],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 287,
+				"name": "Tzitzi-Ya-Ku Claw",
+				"description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 288,
+				"name": "Tzitzi-Ya-Ku Photophore",
+				"description": "Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 285,
+				"name": "Tzitzi-Ya-Ku Scale",
+				"description": "Tzitzi-Ya-Ku material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1013,
+	"slug": "luminous-assault-2",
+	"name": "Luminous Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 3, 3],
+			"sticky": [4, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [2, 2],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 3],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1012,
+		"branches": [1014],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 322,
+				"name": "Legiana Tail Webbing",
+				"description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 154,
+				"name": "Sharp Claw",
+				"description": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 287,
+				"name": "Tzitzi-Ya-Ku Claw",
+				"description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 288,
+				"name": "Tzitzi-Ya-Ku Photophore",
+				"description": "Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1014,
+	"slug": "arma-destroyer-1",
+	"name": "Arma Destroyer 1",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 225,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 3, 3],
+			"sticky": [4, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [2, 2],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 3],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1013,
+		"branches": [1015],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 291,
+				"name": "Tzitzi-Ya-Ku Claw+",
+				"description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 292,
+				"name": "Tzitzi-Ya-Ku Photophore+",
+				"description": "Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 289,
+				"name": "Tzitzi-Ya-Ku Scale+",
+				"description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1015,
+	"slug": "arma-destroyer-2",
+	"name": "Arma Destroyer 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 3, 3],
+			"sticky": [4, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [2, 2],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 3],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1014,
+		"branches": [1016],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 327,
+				"name": "Legiana Wing",
+				"description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 155,
+				"name": "Piercing Claw",
+				"description": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 291,
+				"name": "Tzitzi-Ya-Ku Claw+",
+				"description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 292,
+				"name": "Tzitzi-Ya-Ku Photophore+",
+				"description": "Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1016,
+	"slug": "arma-destroyer-3",
+	"name": "Arma Destroyer 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 3, 3],
+			"sticky": [4, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [2, 2],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 3],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1015,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 431,
+				"name": "Daora Webbing",
+				"description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 291,
+				"name": "Tzitzi-Ya-Ku Claw+",
+				"description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 292,
+				"name": "Tzitzi-Ya-Ku Photophore+",
+				"description": "Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1017,
+	"slug": "shattercryst",
+	"name": "Shattercryst",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "None",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [10, 8, 6],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 3, 0],
+			"recover": [1, 0],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [2, 1],
+			"exhaust": [1, 4],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [5],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 1012,
+		"branches": [1018],
+		"craftingMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 168,
+				"name": "Frost Sac",
+				"description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 323,
+				"name": "Legiana Plate",
+				"description": "Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 322,
+				"name": "Legiana Tail Webbing",
+				"description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 168,
+				"name": "Frost Sac",
+				"description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 318,
+				"name": "Legiana Scale",
+				"description": "Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1018,
+	"slug": "shattercryst+",
+	"name": "Shattercryst+",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [10, 8, 6],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 3, 0],
+			"recover": [1, 0],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [2, 1],
+			"exhaust": [1, 4],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [5],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1017,
+		"branches": [1019],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 169,
+				"name": "Freezer Sac",
+				"description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 324,
+				"name": "Legiana Scale+",
+				"description": "Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 327,
+				"name": "Legiana Wing",
+				"description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1019,
+	"slug": "legia-shattercryst",
+	"name": "Legia Shattercryst",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [10, 8, 6],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 3, 0],
+			"recover": [1, 0],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [2, 1],
+			"exhaust": [1, 4],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [5],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1018,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 328,
+				"name": "Legiana Gem",
+				"description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 325,
+				"name": "Legiana Hide+",
+				"description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1020,
+	"slug": "jagras-assault-1",
+	"name": "Jagras Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 180,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 997,
+		"branches": [1021, 1026],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 216,
+				"name": "Great Jagras Claw",
+				"description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 214,
+				"name": "Great Jagras Hide",
+				"description": "Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 213,
+				"name": "Great Jagras Scale",
+				"description": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 154,
+				"name": "Sharp Claw",
+				"description": "Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1021,
+	"slug": "jagras-assault-2",
+	"name": "Jagras Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1020,
+		"branches": [1022],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 140,
+				"name": "Coral Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 216,
+				"name": "Great Jagras Claw",
+				"description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 215,
+				"name": "Great Jagras Mane",
+				"description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 287,
+				"name": "Tzitzi-Ya-Ku Claw",
+				"description": "Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1022,
+	"slug": "jagras-assault-3",
+	"name": "Jagras Assault 3",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1021,
+		"branches": [1023],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 216,
+				"name": "Great Jagras Claw",
+				"description": "Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 215,
+				"name": "Great Jagras Mane",
+				"description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 213,
+				"name": "Great Jagras Scale",
+				"description": "Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1023,
+	"slug": "jagras-cannon-1",
+	"name": "Jagras Cannon 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1022,
+		"branches": [1024],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 219,
+				"name": "Great Jagras Claw+",
+				"description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 215,
+				"name": "Great Jagras Mane",
+				"description": "Great Jagras material. Obtained by breaking its head. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 217,
+				"name": "Great Jagras Scale+",
+				"description": "Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 155,
+				"name": "Piercing Claw",
+				"description": "Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1024,
+	"slug": "jagras-cannon-2",
+	"name": "Jagras Cannon 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1023,
+		"branches": [1025],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 219,
+				"name": "Great Jagras Claw+",
+				"description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 203,
+				"name": "Jagras Hide+",
+				"description": "Rare Jagras material. Obtained by carving. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 291,
+				"name": "Tzitzi-Ya-Ku Claw+",
+				"description": "Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1025,
+	"slug": "jagras-cannon-3",
+	"name": "Jagras Cannon 3",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 270,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 0],
+			"piercing": [5, 0, 0],
+			"spread": [10, 6, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [1, 1],
+			"poison": [0, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [0],
+			"demon": [1],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1024,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 219,
+				"name": "Great Jagras Claw+",
+				"description": "Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 218,
+				"name": "Great Jagras Hide+",
+				"description": "Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 417,
+				"name": "Vaal Hazak Talon",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1026,
+	"slug": "blazing-assault-1",
+	"name": "Blazing Assault 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 210,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [10, 9, 6],
+			"piercing": [9, 7, 0],
+			"spread": [9, 6, 5],
+			"sticky": [4, 3, 0],
+			"cluster": [3, 2, 0],
+			"recover": [0, 0],
+			"poison": [5, 5],
+			"paralysis": [4, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1020,
+		"branches": [1027],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 265,
+				"name": "Anjanath Fang",
+				"description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 263,
+				"name": "Anjanath Scale",
+				"description": "Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 164,
+				"name": "Flame Sac",
+				"description": "A monster organ filled with flammable powder. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1027,
+	"slug": "blazing-assault-2",
+	"name": "Blazing Assault 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 225,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [10, 9, 6],
+			"piercing": [9, 7, 0],
+			"spread": [9, 6, 5],
+			"sticky": [4, 3, 0],
+			"cluster": [3, 2, 0],
+			"recover": [0, 0],
+			"poison": [5, 5],
+			"paralysis": [4, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1026,
+		"branches": [1028],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 265,
+				"name": "Anjanath Fang",
+				"description": "Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 266,
+				"name": "Anjanath Nosebone",
+				"description": "Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 267,
+				"name": "Anjanath Tail",
+				"description": "Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 345,
+				"name": "Rathalos Marrow",
+				"description": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1028,
+	"slug": "flammenkanone",
+	"name": "Flammenkanone",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [10, 9, 6],
+			"piercing": [9, 7, 0],
+			"spread": [9, 6, 5],
+			"sticky": [4, 3, 0],
+			"cluster": [3, 2, 0],
+			"recover": [0, 0],
+			"poison": [5, 5],
+			"paralysis": [4, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1027,
+		"branches": [1029],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 271,
+				"name": "Anjanath Fang+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 268,
+				"name": "Anjanath Plate",
+				"description": "Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 269,
+				"name": "Anjanath Scale+",
+				"description": "Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 165,
+				"name": "Inferno Sac",
+				"description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1029,
+	"slug": "gnashing-flammenkanone",
+	"name": "Gnashing Flammenkanone",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 300,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [10, 9, 6],
+			"piercing": [9, 7, 0],
+			"spread": [9, 6, 5],
+			"sticky": [4, 3, 0],
+			"cluster": [3, 2, 0],
+			"recover": [0, 0],
+			"poison": [5, 5],
+			"paralysis": [4, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1028,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 271,
+				"name": "Anjanath Fang+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 273,
+				"name": "Anjanath Gem",
+				"description": "A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 272,
+				"name": "Anjanath Nosebone+",
+				"description": "Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 421,
+				"name": "Teostra Mane",
+				"description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1030,
+	"slug": "bone-shooter-1",
+	"name": "Bone Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 1,
+	"attributes": {
+		"attack": 150,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1031],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1031,
+	"slug": "bone-shooter-2",
+	"name": "Bone Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 1,
+	"attributes": {
+		"attack": 165,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1030,
+		"branches": [1032, 1043, 1056],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1032,
+	"slug": "bone-shooter-3",
+	"name": "Bone Shooter 3",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1031,
+		"branches": [1033],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1033,
+	"slug": "heavy-shooter-1",
+	"name": "Heavy Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1032,
+		"branches": [1034, 1038],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1034,
+	"slug": "heavy-shooter-2",
+	"name": "Heavy Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 225,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1033,
+		"branches": [1035],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1035,
+	"slug": "heavy-shooter-3",
+	"name": "Heavy Shooter 3",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1034,
+		"branches": [1036],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1036,
+	"slug": "power-shooter-1",
+	"name": "Power Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank2": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1035,
+		"branches": [1037],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1037,
+	"slug": "power-shooter-2",
+	"name": "Power Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 270,
+		"slotsRank3": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [9, 6, 5],
+			"piercing": [7, 0, 0],
+			"spread": [6, 4, 0],
+			"sticky": [3, 0, 0],
+			"cluster": [2, 0, 0],
+			"recover": [2, 0],
+			"poison": [4, 0],
+			"paralysis": [3, 0],
+			"sleep": [3, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [3],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1036,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 20,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1038,
+	"slug": "diablos-shooter-1",
+	"name": "Diablos Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 240,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [1, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1033,
+		"branches": [1039],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 359,
+				"name": "Diablos Fang",
+				"description": "Diablos material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 356,
+				"name": "Diablos Shell",
+				"description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 360,
+				"name": "Twisted Horn",
+				"description": "Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1039,
+	"slug": "diablos-shooter-2",
+	"name": "Diablos Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 270,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [1, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1038,
+		"branches": [1040],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 361,
+				"name": "Diablos Marrow",
+				"description": "Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 357,
+				"name": "Diablos Ridge",
+				"description": "Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 358,
+				"name": "Diablos Tailcase",
+				"description": "Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1040,
+	"slug": "dual-threat",
+	"name": "Dual Threat",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 300,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [1, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1039,
+		"branches": [1041],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 365,
+				"name": "Blos Medulla",
+				"description": "Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 362,
+				"name": "Diablos Carapace",
+				"description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 363,
+				"name": "Diablos Ridge+",
+				"description": "Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 364,
+				"name": "Majestic Horn",
+				"description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1041,
+	"slug": "neros-blazooka",
+	"name": "Nero's Blazooka",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 315,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [1, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1040,
+		"branches": [1042],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 366,
+				"name": "Black Diablos Carapace",
+				"description": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 367,
+				"name": "Black Diablos Ridge+",
+				"description": "Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 368,
+				"name": "Black Spiral Horn+",
+				"description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1042,
+	"slug": "griffon-blazooka",
+	"name": "Griffon Blazooka",
+	"type": "heavy-bowgun",
+	"rarity": 8,
+	"attributes": {
+		"attack": 330,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [0, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 0, 0],
+			"recover": [1, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 0],
+			"sleep": [0, 0],
+			"exhaust": [1, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1041,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 366,
+				"name": "Black Diablos Carapace",
+				"description": "Rare Black Diablos material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 368,
+				"name": "Black Spiral Horn+",
+				"description": "Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 439,
+				"name": "Xeno'jiiva Tail",
+				"description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1043,
+	"slug": "blooming-shooter-1",
+	"name": "Blooming Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 180,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1031,
+		"branches": [1044, 1049],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 228,
+				"name": "Pukei-Pukei Scale",
+				"description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1044,
+	"slug": "blooming-shooter-2",
+	"name": "Blooming Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1043,
+		"branches": [1045],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 229,
+				"name": "Pukei-Pukei Shell",
+				"description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 232,
+				"name": "Pukei-Pukei Tail",
+				"description": "Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1045,
+	"slug": "blooming-shooter-3",
+	"name": "Blooming Shooter 3",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1044,
+		"branches": [1046],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1046,
+	"slug": "datura-blaster-1",
+	"name": "Datura Blaster 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 225,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1045,
+		"branches": [1047],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 233,
+				"name": "Pukei-Pukei Scale+",
+				"description": "Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1047,
+	"slug": "datura-blaster-2",
+	"name": "Datura Blaster 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1046,
+		"branches": [1048],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 234,
+				"name": "Pukei-Pukei Carapace",
+				"description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1048,
+	"slug": "datura-blaster-3",
+	"name": "Datura Blaster 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [10, 8, 0],
+			"spread": [3, 2, 1],
+			"sticky": [2, 0, 0],
+			"cluster": [3, 0, 0],
+			"recover": [1, 1],
+			"poison": [3, 2],
+			"paralysis": [2, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1047,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 236,
+				"name": "Pukei-Pukei Sac+",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 418,
+				"name": "Vaal Hazak Wing",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1049,
+	"slug": "spiked-shooter-1",
+	"name": "Spiked Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [1, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [0, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 1],
+			"sleep": [2, 1],
+			"exhaust": [0, 0],
+			"flaming": [4],
+			"water": [4],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1043,
+		"branches": [1050],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 310,
+				"name": "Radobaan Scale",
+				"description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 162,
+				"name": "Sleep Sac",
+				"description": "A monster organ that contains a knockout powder capable of inducing sleep.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 313,
+				"name": "Wyvern Bonemass",
+				"description": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1050,
+	"slug": "spiked-shooter-2",
+	"name": "Spiked Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [1, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [0, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 1],
+			"sleep": [2, 1],
+			"exhaust": [0, 0],
+			"flaming": [4],
+			"water": [4],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1049,
+		"branches": [1051],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 314,
+				"name": "Radobaan Marrow",
+				"description": "Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 312,
+				"name": "Radobaan Oilshell",
+				"description": "Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 313,
+				"name": "Wyvern Bonemass",
+				"description": "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1051,
+	"slug": "baan-roar-1",
+	"name": "Baan Roar 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 225,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [1, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [0, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 1],
+			"sleep": [2, 1],
+			"exhaust": [0, 0],
+			"flaming": [4],
+			"water": [4],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 1050,
+		"branches": [1052, 1054],
+		"craftingMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 316,
+				"name": "Radobaan Carapace",
+				"description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 317,
+				"name": "Radobaan Medulla",
+				"description": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 312,
+				"name": "Radobaan Oilshell",
+				"description": "Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 163,
+				"name": "Coma Sac",
+				"description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 316,
+				"name": "Radobaan Carapace",
+				"description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 312,
+				"name": "Radobaan Oilshell",
+				"description": "Radobaan material. Obtained by carving its severed tail. Impact resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1052,
+	"slug": "baan-roar-2",
+	"name": "Baan Roar 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [1, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [0, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 1],
+			"sleep": [2, 1],
+			"exhaust": [0, 0],
+			"flaming": [4],
+			"water": [4],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1051,
+		"branches": [1053],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 163,
+				"name": "Coma Sac",
+				"description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 317,
+				"name": "Radobaan Medulla",
+				"description": "Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 315,
+				"name": "Radobaan Scale+",
+				"description": "Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1053,
+	"slug": "baan-roar-3",
+	"name": "Baan Roar 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 270,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 2],
+			"spread": [1, 0, 0],
+			"sticky": [2, 0, 0],
+			"cluster": [1, 1, 0],
+			"recover": [0, 0],
+			"poison": [3, 0],
+			"paralysis": [2, 1],
+			"sleep": [2, 1],
+			"exhaust": [0, 0],
+			"flaming": [4],
+			"water": [4],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [1],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1052,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 163,
+				"name": "Coma Sac",
+				"description": "A monster organ that contains dangerous powder. One whiff can induce a coma.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 316,
+				"name": "Radobaan Carapace",
+				"description": "Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1054,
+	"slug": "gama-cannon-1",
+	"name": "Gama Cannon 1",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 0],
+			"spread": [1, 3, 0],
+			"sticky": [2, 2, 1],
+			"cluster": [0, 1, 1],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [4],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1051,
+		"branches": [1055],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 383,
+				"name": "Dodogama Hide+",
+				"description": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 382,
+				"name": "Dodogama Scale+",
+				"description": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 385,
+				"name": "Dodogama Talon",
+				"description": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1055,
+	"slug": "gama-cannon-2",
+	"name": "Gama Cannon 2",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [1, 5, 3],
+			"piercing": [4, 3, 0],
+			"spread": [1, 3, 0],
+			"sticky": [2, 2, 1],
+			"cluster": [0, 1, 1],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [2, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [4],
+			"dragon": [0],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1054,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 384,
+				"name": "Dodogama Jaw",
+				"description": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 386,
+				"name": "Dodogama Tail",
+				"description": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 424,
+				"name": "Fire Dragon Scale+",
+				"description": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1056,
+	"slug": "pulsar-shooter-1",
+	"name": "Pulsar Shooter 1",
+	"type": "heavy-bowgun",
+	"rarity": 2,
+	"attributes": {
+		"attack": 180,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1031,
+		"branches": [1057],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 257,
+				"name": "Tobi-Kadachi Claw",
+				"description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 255,
+				"name": "Tobi-Kadachi Pelt",
+				"description": "Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 254,
+				"name": "Tobi-Kadachi Scale",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1057,
+	"slug": "pulsar-shooter-2",
+	"name": "Pulsar Shooter 2",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 195,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1056,
+		"branches": [1058],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 170,
+				"name": "Electro Sac",
+				"description": "A monster organ that can store up electricity, which is released on impact.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 257,
+				"name": "Tobi-Kadachi Claw",
+				"description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1058,
+	"slug": "pulsar-shooter-3",
+	"name": "Pulsar Shooter 3",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1057,
+		"branches": [1059],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 256,
+				"name": "Tobi-Kadachi Membrane",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1059,
+	"slug": "kadachi-lion-1",
+	"name": "Kadachi Lion 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 225,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1058,
+		"branches": [1060],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 260,
+				"name": "Tobi-Kadachi Pelt+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 259,
+				"name": "Tobi-Kadachi Scale+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1060,
+	"slug": "kadachi-lion-2",
+	"name": "Kadachi Lion 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1059,
+		"branches": [1061],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 364,
+				"name": "Majestic Horn",
+				"description": "Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 171,
+				"name": "Thunder Sac",
+				"description": "A monster organ that can store up large amounts of high voltage electricity.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 262,
+				"name": "Tobi-Kadachi Electrode+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1061,
+	"slug": "kadachi-lion-3",
+	"name": "Kadachi Lion 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [10, 9, 0],
+			"piercing": [9, 7, 5],
+			"spread": [9, 0, 0],
+			"sticky": [0, 3, 0],
+			"cluster": [0, 2, 0],
+			"recover": [0, 0],
+			"poison": [0, 0],
+			"paralysis": [4, 3],
+			"sleep": [4, 0],
+			"exhaust": [0, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [4],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1060,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 262,
+				"name": "Tobi-Kadachi Electrode+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1062,
+	"slug": "dragonbone-cannon-1",
+	"name": "Dragonbone Cannon 1",
+	"type": "heavy-bowgun",
+	"rarity": 3,
+	"attributes": {
+		"attack": 150,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 0, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 0, 0],
+			"sticky": [0, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 0],
+			"exhaust": [7, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [3],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1063, 1065, 1068],
+		"craftingMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 140,
+				"name": "Coral Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1063,
+	"slug": "dragonbone-cannon-2",
+	"name": "Dragonbone Cannon 2",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 210,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 0, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 0, 0],
+			"sticky": [0, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 0],
+			"exhaust": [7, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [3],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1062,
+		"branches": [1064],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1064,
+	"slug": "dragonbone-cannon-3",
+	"name": "Dragonbone Cannon 3",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 0, 0],
+			"piercing": [6, 0, 0],
+			"spread": [6, 0, 0],
+			"sticky": [0, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [0, 0],
+			"poison": [7, 0],
+			"paralysis": [1, 4],
+			"sleep": [5, 0],
+			"exhaust": [7, 0],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [3],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1063,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 142,
+				"name": "Brutal Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1065,
+	"slug": "quickcaster",
+	"name": "Quickcaster",
+	"type": "heavy-bowgun",
+	"rarity": 4,
+	"attributes": {
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 5, 3],
+			"spread": [0, 0, 0],
+			"sticky": [4, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [2, 0],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [0, 0],
+			"exhaust": [0, 6],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [7],
+			"thunder": [7],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1062,
+		"branches": [1066],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 369,
+				"name": "Kirin Hide",
+				"description": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 370,
+				"name": "Kirin Tail",
+				"description": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 372,
+				"name": "Kirin Thunderhorn",
+				"description": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1066,
+	"slug": "quickcaster+",
+	"name": "Quickcaster+",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 5, 3],
+			"spread": [0, 0, 0],
+			"sticky": [4, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [2, 0],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [0, 0],
+			"exhaust": [0, 6],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [7],
+			"thunder": [7],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1065,
+		"branches": [1067],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 375,
+				"name": "Kirin Azure Horn",
+				"description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 373,
+				"name": "Kirin Hide+",
+				"description": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 371,
+				"name": "Kirin Mane",
+				"description": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1067,
+	"slug": "quickquiver",
+	"name": "Quickquiver",
+	"type": "heavy-bowgun",
+	"rarity": 8,
+	"attributes": {
+		"attack": 255,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 6, 0],
+			"piercing": [6, 5, 3],
+			"spread": [0, 0, 0],
+			"sticky": [4, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [2, 0],
+			"poison": [0, 0],
+			"paralysis": [1, 4],
+			"sleep": [0, 0],
+			"exhaust": [0, 6],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [7],
+			"thunder": [7],
+			"dragon": [0],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1066,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 375,
+				"name": "Kirin Azure Horn",
+				"description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 374,
+				"name": "Kirin Thundertail",
+				"description": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1068,
+	"slug": "magda-gemitus-1",
+	"name": "Magda Gemitus 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 240,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [0, 0, 3],
+			"spread": [0, 0, 3],
+			"sticky": [0, 3, 3],
+			"cluster": [0, 1, 1],
+			"recover": [2, 0],
+			"poison": [0, 5],
+			"paralysis": [0, 4],
+			"sleep": [0, 3],
+			"exhaust": [7, 6],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1062,
+		"branches": [1069],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 377,
+				"name": "Zorah Magdaros Carapace",
+				"description": "Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 381,
+				"name": "Zorah Magdaros Gem",
+				"description": "A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 376,
+				"name": "Zorah Magdaros Heat Scale",
+				"description": "Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 380,
+				"name": "Zorah Magdaros Magma",
+				"description": "Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1069,
+	"slug": "magda-gemitus-2",
+	"name": "Magda Gemitus 2",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 315,
+		"slotsRank2": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernsnipe",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [0, 0, 3],
+			"spread": [0, 0, 3],
+			"sticky": [0, 3, 3],
+			"cluster": [0, 1, 1],
+			"recover": [2, 0],
+			"poison": [0, 5],
+			"paralysis": [0, 4],
+			"sleep": [0, 3],
+			"exhaust": [7, 6],
+			"flaming": [7],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [0],
+			"armor": [2],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1068,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 379,
+				"name": "Zorah Magdaros Pleura",
+				"description": "Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 378,
+				"name": "Zorah Magdaros Ridge",
+				"description": "Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1070,
+	"slug": "blacksteel-cannon-1",
+	"name": "Blacksteel Cannon 1",
+	"type": "heavy-bowgun",
+	"rarity": 5,
+	"attributes": {
+		"attack": 150,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [3, 0, 0],
+			"piercing": [4, 0, 0],
+			"spread": [3, 0, 0],
+			"sticky": [0, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [0, 0],
+			"poison": [6, 0],
+			"paralysis": [3, 0],
+			"sleep": [5, 0],
+			"exhaust": [5, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [2],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1071],
+		"craftingMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1071,
+	"slug": "blacksteel-cannon-2",
+	"name": "Blacksteel Cannon 2",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 165,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [3, 0, 0],
+			"piercing": [4, 0, 0],
+			"spread": [3, 0, 0],
+			"sticky": [0, 0, 0],
+			"cluster": [0, 0, 0],
+			"recover": [0, 0],
+			"poison": [6, 0],
+			"paralysis": [3, 0],
+			"sleep": [5, 0],
+			"exhaust": [5, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [2],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1070,
+		"branches": [1072, 1074],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1072,
+	"slug": "teostras-artillery",
+	"name": "Teostra's Artillery",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 255,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [5, 4, 2],
+			"spread": [10, 0, 0],
+			"sticky": [2, 2, 1],
+			"cluster": [1, 1, 1],
+			"recover": [0, 0],
+			"poison": [3, 2],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [2],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1071,
+		"branches": [1073],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 420,
+				"name": "Teostra Carapace",
+				"description": "Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 425,
+				"name": "Teostra Claw+",
+				"description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 421,
+				"name": "Teostra Mane",
+				"description": "Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 427,
+				"name": "Teostra Powder",
+				"description": "Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1073,
+	"slug": "teostras-flames",
+	"name": "Teostra's Flames",
+	"type": "heavy-bowgun",
+	"rarity": 8,
+	"attributes": {
+		"attack": 270,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [5, 4, 3],
+			"piercing": [5, 4, 2],
+			"spread": [10, 0, 0],
+			"sticky": [2, 2, 1],
+			"cluster": [1, 1, 1],
+			"recover": [0, 0],
+			"poison": [3, 2],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 0],
+			"flaming": [5],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [0],
+			"slicing": [1],
+			"wyvern": [2],
+			"demon": [1],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1072,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 425,
+				"name": "Teostra Claw+",
+				"description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 428,
+				"name": "Teostra Gem",
+				"description": "A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 423,
+				"name": "Teostra Horn+",
+				"description": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 436,
+				"name": "Xeno'jiiva Soulscale",
+				"description": "Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1074,
+	"slug": "xeno-jiiqa",
+	"name": "Xeno Jiiqa",
+	"type": "heavy-bowgun",
+	"rarity": 8,
+	"attributes": {
+		"attack": 255,
+		"slotsRank3": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [10, 0, 6],
+			"piercing": [0, 7, 5],
+			"spread": [0, 6, 5],
+			"sticky": [0, 0, 2],
+			"cluster": [0, 0, 1],
+			"recover": [0, 2],
+			"poison": [0, 0],
+			"paralysis": [0, 0],
+			"sleep": [0, 0],
+			"exhaust": [0, 6],
+			"flaming": [7],
+			"water": [7],
+			"freeze": [7],
+			"thunder": [7],
+			"dragon": [3],
+			"slicing": [0],
+			"wyvern": [1],
+			"demon": [2],
+			"armor": [3],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1071,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 441,
+				"name": "Xeno'jiiva Claw",
+				"description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 443,
+				"name": "Xeno'jiiva Gem",
+				"description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 439,
+				"name": "Xeno'jiiva Tail",
+				"description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1174,
+	"slug": "gluttonous-cannon",
+	"name": "Gluttonous Cannon",
+	"type": "heavy-bowgun",
+	"rarity": 6,
+	"attributes": {
+		"attack": 315,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [0, 0, 3],
+			"spread": [0, 0, 3],
+			"sticky": [0, 3, 3],
+			"cluster": [0, 1, 1],
+			"recover": [0, 0],
+			"poison": [0, 5],
+			"paralysis": [0, 0],
+			"sleep": [5, 3],
+			"exhaust": [7, 6],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [3],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1175],
+		"craftingMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 522,
+				"name": "Deviljho Saliva",
+				"description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 516,
+				"name": "Deviljho Scale",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 519,
+				"name": "Deviljho Talon",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1175,
+	"slug": "dark-devourer",
+	"name": "Dark Devourer",
+	"type": "heavy-bowgun",
+	"rarity": 7,
+	"attributes": {
+		"attack": 345,
+		"deviation": "High",
+		"specialAmmo": "Wyvernheart",
+		"ammoCapacities": {
+			"normal": [7, 6, 4],
+			"piercing": [0, 0, 3],
+			"spread": [0, 0, 3],
+			"sticky": [0, 3, 3],
+			"cluster": [0, 1, 1],
+			"recover": [0, 0],
+			"poison": [0, 5],
+			"paralysis": [0, 0],
+			"sleep": [5, 3],
+			"exhaust": [7, 6],
+			"flaming": [0],
+			"water": [0],
+			"freeze": [0],
+			"thunder": [0],
+			"dragon": [3],
+			"slicing": [2],
+			"wyvern": [1],
+			"demon": [3],
+			"armor": [0],
+			"tranq": [3]
+		}
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1174,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 523,
+				"name": "Deviljho Gem",
+				"description": "A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 520,
+				"name": "Deviljho Scalp",
+				"description": "Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}]
