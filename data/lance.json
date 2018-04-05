@@ -1,0 +1,5503 @@
+[{
+	"id": 514,
+	"slug": "iron-lance-1",
+	"name": "Iron Lance 1",
+	"type": "lance",
+	"rarity": 1,
+	"attributes": {
+		"attack": 184,
+		"sharpnessRed": 25,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 13
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [515],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 515,
+	"slug": "iron-lance-2",
+	"name": "Iron Lance 2",
+	"type": "lance",
+	"rarity": 1,
+	"attributes": {
+		"attack": 207,
+		"sharpnessRed": 20,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 514,
+		"branches": [516, 528, 541],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 516,
+	"slug": "iron-lance-3",
+	"name": "Iron Lance 3",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 230,
+		"sharpnessRed": 15,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 515,
+		"branches": [517],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 116,
+				"name": "Iron Ore",
+				"description": "Ore that can be smelted into metal and used for many different purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 517,
+	"slug": "steel-lance-1",
+	"name": "Steel Lance 1",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 253,
+		"sharpnessRed": 20,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 516,
+		"branches": [518, 524],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 518,
+	"slug": "steel-lance-2",
+	"name": "Steel Lance 2",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"sharpnessRed": 17,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 517,
+		"branches": [519],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 117,
+				"name": "Machalite Ore",
+				"description": "Ore that's more difficult to procure than Iron Ore. Produces fine metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 519,
+	"slug": "steel-lance-3",
+	"name": "Steel Lance 3",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 322,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Paralysis",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 518,
+		"branches": [520],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 520,
+	"slug": "chrome-lance-1",
+	"name": "Chrome Lance 1",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Paralysis",
+		"sharpnessRed": 17,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 13
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 519,
+		"branches": [521, 522],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 521,
+	"slug": "chrome-lance-2",
+	"name": "Chrome Lance 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 414,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 270,
+		"elementType": "Paralysis",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 5,
+		"sharpnessGreen": 37,
+		"sharpnessBlue": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 520,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 20,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 13,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 522,
+	"slug": "nergal-impaler",
+	"name": "Nergal Impaler",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 460,
+		"slotsRank1": 1,
+		"elementDamage": 120,
+		"elementType": "Dragon",
+		"sharpnessRed": 30,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 12,
+		"sharpnessBlue": 18
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 520,
+		"branches": [523],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 406,
+				"name": "Nergigante Carapace",
+				"description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 410,
+				"name": "Nergigante Regrowth Plate",
+				"description": "Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 407,
+				"name": "Nergigante Tail",
+				"description": "Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 523,
+	"slug": "perditions-hand",
+	"name": "Perdition's Hand",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 483,
+		"slotsRank1": 1,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 13,
+		"sharpnessBlue": 20
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 522,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 411,
+				"name": "Nergigante Gem",
+				"description": "A rare gem said to have formed within Nergigante tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 408,
+				"name": "Nergigante Horn+",
+				"description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 440,
+				"name": "Xeno'jiiva Horn",
+				"description": "A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 524,
+	"slug": "glacial-lance-1",
+	"name": "Glacial Lance 1",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"elementDamage": 270,
+		"elementType": "Ice",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 517,
+		"branches": [525],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 168,
+				"name": "Frost Sac",
+				"description": "A monster internal organ, filled with extremely low temperature fluid. Handle with care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 318,
+				"name": "Legiana Scale",
+				"description": "Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 525,
+	"slug": "glacial-lance-2",
+	"name": "Glacial Lance 2",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 322,
+		"elementDamage": 300,
+		"elementType": "Ice",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 524,
+		"branches": [526],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 320,
+				"name": "Legiana Claw",
+				"description": "Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 323,
+				"name": "Legiana Plate",
+				"description": "Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 322,
+				"name": "Legiana Tail Webbing",
+				"description": "Legiana material. Obtained by breaking its tail. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 300,
+				"name": "Paolumu Wing",
+				"description": "Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 526,
+	"slug": "legiana-halberd-1",
+	"name": "Legiana Halberd 1",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 345,
+		"elementDamage": 330,
+		"elementType": "Ice",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 525,
+		"branches": [527],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 169,
+				"name": "Freezer Sac",
+				"description": "A monster organ with tremendous freezing power. Turns its surroundings to ice.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 324,
+				"name": "Legiana Scale+",
+				"description": "Rare Legiana material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 327,
+				"name": "Legiana Wing",
+				"description": "Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 527,
+	"slug": "legiana-halberd-2",
+	"name": "Legiana Halberd 2",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 368,
+		"elementDamage": 360,
+		"elementType": "Ice",
+		"sharpnessRed": 32,
+		"sharpnessOrange": 8,
+		"sharpnessYellow": 15,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10,
+		"sharpnessWhite": 2
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 526,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 326,
+				"name": "Legiana Claw+",
+				"description": "Rare Legiana material. Mostly obtained by carving. Grants ice element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 328,
+				"name": "Legiana Gem",
+				"description": "A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 325,
+				"name": "Legiana Hide+",
+				"description": "Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 528,
+	"slug": "kulu-lance-1",
+	"name": "Kulu Lance 1",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 253,
+		"sharpnessRed": 17,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 515,
+		"branches": [529, 536],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 221,
+				"name": "Kulu-Ya-Ku Hide",
+				"description": "Kulu-Ya-Ku material. Mostly obtained by carving Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 220,
+				"name": "Kulu-Ya-Ku Scale",
+				"description": "Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 529,
+	"slug": "kulu-lance-2",
+	"name": "Kulu Lance 2",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 276,
+		"sharpnessRed": 20,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 528,
+		"branches": [530],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 222,
+				"name": "Kulu-Ya-Ku Plume",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 310,
+				"name": "Radobaan Scale",
+				"description": "Radobaan material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 530,
+	"slug": "kulu-lance-3",
+	"name": "Kulu Lance 3",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"sharpnessRed": 15,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 529,
+		"branches": [531],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 223,
+				"name": "Kulu-Ya-Ku Beak",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 222,
+				"name": "Kulu-Ya-Ku Plume",
+				"description": "Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 331,
+				"name": "Odogaron Claw",
+				"description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 531,
+	"slug": "kulu-hasta-1",
+	"name": "Kulu Hasta 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 345,
+		"elementHidden": true,
+		"elementDamage": 300,
+		"elementType": "Sleep",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 530,
+		"branches": [532, 534],
+		"craftingMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 225,
+				"name": "Kulu-Ya-Ku Hide+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 224,
+				"name": "Kulu-Ya-Ku Scale+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 225,
+				"name": "Kulu-Ya-Ku Hide+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 224,
+				"name": "Kulu-Ya-Ku Scale+",
+				"description": "Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 532,
+	"slug": "kulu-hasta-2",
+	"name": "Kulu Hasta 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"elementHidden": true,
+		"elementDamage": 330,
+		"elementType": "Sleep",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 531,
+		"branches": [533],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 142,
+				"name": "Brutal Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 226,
+				"name": "Kulu-Ya-Ku Plume+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 337,
+				"name": "Odogaron Claw+",
+				"description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 533,
+	"slug": "kulu-hasta-3",
+	"name": "Kulu Hasta 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"elementHidden": true,
+		"elementDamage": 360,
+		"elementType": "Sleep",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 15,
+		"sharpnessGreen": 25,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 532,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 227,
+				"name": "Kulu-Ya-Ku Beak+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 226,
+				"name": "Kulu-Ya-Ku Plume+",
+				"description": "Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 409,
+				"name": "Nergigante Talon",
+				"description": "Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 534,
+	"slug": "gama-pilebunker-1",
+	"name": "Gama Pilebunker 1",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"slotsRank2": 2,
+		"elementDamage": 180,
+		"elementType": "Blast",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 13,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 531,
+		"branches": [535],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 383,
+				"name": "Dodogama Hide+",
+				"description": "Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 382,
+				"name": "Dodogama Scale+",
+				"description": "Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 385,
+				"name": "Dodogama Talon",
+				"description": "Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used to craft armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 535,
+	"slug": "gama-pilebunker-2",
+	"name": "Gama Pilebunker 2",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 2,
+		"elementDamage": 210,
+		"elementType": "Blast",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 534,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 384,
+				"name": "Dodogama Jaw",
+				"description": "Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 386,
+				"name": "Dodogama Tail",
+				"description": "Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 424,
+				"name": "Fire Dragon Scale+",
+				"description": "Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 536,
+	"slug": "thunder-lance-1",
+	"name": "Thunder Lance 1",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 276,
+		"elementDamage": 120,
+		"elementType": "Thunder",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 528,
+		"branches": [537],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 170,
+				"name": "Electro Sac",
+				"description": "A monster organ that can store up electricity, which is released on impact.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 257,
+				"name": "Tobi-Kadachi Claw",
+				"description": "Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 537,
+	"slug": "thunder-lance-2",
+	"name": "Thunder Lance 2",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 322,
+		"elementDamage": 150,
+		"elementType": "Thunder",
+		"sharpnessRed": 20,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 536,
+		"branches": [538],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 258,
+				"name": "Tobi-Kadachi Electrode",
+				"description": "Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 256,
+				"name": "Tobi-Kadachi Membrane",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 538,
+	"slug": "lightning-spire-1",
+	"name": "Lightning Spire 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 368,
+		"slotsRank2": 1,
+		"elementDamage": 180,
+		"elementType": "Thunder",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 28
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 537,
+		"branches": [539],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 260,
+				"name": "Tobi-Kadachi Pelt+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 259,
+				"name": "Tobi-Kadachi Scale+",
+				"description": "Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 181,
+				"name": "Vespoid Innerwing",
+				"description": "Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 539,
+	"slug": "lightning-spire-2",
+	"name": "Lightning Spire 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 1,
+		"elementDamage": 210,
+		"elementType": "Thunder",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 538,
+		"branches": [540],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 171,
+				"name": "Thunder Sac",
+				"description": "A monster organ that can store up large amounts of high voltage electricity.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 262,
+				"name": "Tobi-Kadachi Electrode+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 256,
+				"name": "Tobi-Kadachi Membrane",
+				"description": "Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 540,
+	"slug": "lightning-spire-3",
+	"name": "Lightning Spire 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 414,
+		"slotsRank2": 1,
+		"elementDamage": 240,
+		"elementType": "Thunder",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 539,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 261,
+				"name": "Tobi-Kadachi Claw+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 262,
+				"name": "Tobi-Kadachi Electrode+",
+				"description": "Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 541,
+	"slug": "blooming-lance-1",
+	"name": "Blooming Lance 1",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 230,
+		"elementDamage": 240,
+		"elementType": "Poison",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 515,
+		"branches": [542],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 228,
+				"name": "Pukei-Pukei Scale",
+				"description": "Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 542,
+	"slug": "blooming-lance-2",
+	"name": "Blooming Lance 2",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 253,
+		"elementDamage": 300,
+		"elementType": "Poison",
+		"sharpnessRed": 17,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 541,
+		"branches": [543, 547],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 229,
+				"name": "Pukei-Pukei Shell",
+				"description": "Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 232,
+				"name": "Pukei-Pukei Tail",
+				"description": "Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 543,
+	"slug": "blooming-lance-3",
+	"name": "Blooming Lance 3",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"elementDamage": 360,
+		"elementType": "Poison",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 542,
+		"branches": [544],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 158,
+				"name": "Poison Sac",
+				"description": "A monster organ that contains a lethal toxin. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 230,
+				"name": "Pukei-Pukei Quill",
+				"description": "Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 231,
+				"name": "Pukei-Pukei Sac",
+				"description": "Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 544,
+	"slug": "datura-pike-1",
+	"name": "Datura Pike 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 345,
+		"slotsRank1": 2,
+		"elementDamage": 420,
+		"elementType": "Poison",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 543,
+		"branches": [545],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 233,
+				"name": "Pukei-Pukei Scale+",
+				"description": "Rare Pukei-Pukei material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 545,
+	"slug": "datura-pike-2",
+	"name": "Datura Pike 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementDamage": 480,
+		"elementType": "Poison",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 13,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 544,
+		"branches": [546],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 234,
+				"name": "Pukei-Pukei Carapace",
+				"description": "Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 159,
+				"name": "Toxin Sac",
+				"description": "A monster organ filled with an extremely potent toxin. Just touching it is dangerous.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 546,
+	"slug": "datura-pike-3",
+	"name": "Datura Pike 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementDamage": 540,
+		"elementType": "Poison",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 12,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 545,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 172,
+				"name": "Bird Wyvern Gem",
+				"description": "A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 236,
+				"name": "Pukei-Pukei Sac+",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 235,
+				"name": "Pukei-Pukei Wing",
+				"description": "Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 418,
+				"name": "Vaal Hazak Wing",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 547,
+	"slug": "flame-lance-1",
+	"name": "Flame Lance 1",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"elementDamage": 180,
+		"elementType": "Fire",
+		"sharpnessRed": 12,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 17
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 542,
+		"branches": [548],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 164,
+				"name": "Flame Sac",
+				"description": "A monster organ filled with flammable powder. Handle with extreme care.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 345,
+				"name": "Rathalos Marrow",
+				"description": "Rathalos material. Mostly obtained by carving Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 340,
+				"name": "Rathalos Scale",
+				"description": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 342,
+				"name": "Rathalos Webbing",
+				"description": "Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 548,
+	"slug": "flame-lance-2",
+	"name": "Flame Lance 2",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 322,
+		"slotsRank1": 1,
+		"elementDamage": 210,
+		"elementType": "Fire",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 547,
+		"branches": [549],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 165,
+				"name": "Inferno Sac",
+				"description": "A monster organ filled with powder that ignites if it so much as touches air. Danger!",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 346,
+				"name": "Rathalos Plate",
+				"description": "Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 340,
+				"name": "Rathalos Scale",
+				"description": "Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 343,
+				"name": "Rathalos Tail",
+				"description": "Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 549,
+	"slug": "red-tail",
+	"name": "Red Tail",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"slotsRank1": 1,
+		"elementDamage": 240,
+		"elementType": "Fire",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 548,
+		"branches": [550],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 348,
+				"name": "Rathalos Carapace",
+				"description": "Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 350,
+				"name": "Rathalos Medulla",
+				"description": "Rare Rathalos material. Obtained by carving. Grants fire element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 347,
+				"name": "Rathalos Scale+",
+				"description": "Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 349,
+				"name": "Rathalos Wing",
+				"description": "Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 550,
+	"slug": "blue-tail",
+	"name": "Blue Tail",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 414,
+		"slotsRank1": 1,
+		"elementDamage": 210,
+		"elementType": "Fire",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 549,
+		"branches": [551],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 353,
+				"name": "Azure Rathalos Carapace",
+				"description": "Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 352,
+				"name": "Azure Rathalos Scale+",
+				"description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 355,
+				"name": "Azure Rathalos Wing",
+				"description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 351,
+				"name": "Rathalos Ruby",
+				"description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 551,
+	"slug": "blue-prominence",
+	"name": "Blue Prominence",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 437,
+		"slotsRank1": 1,
+		"elementDamage": 300,
+		"elementType": "Fire",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 15,
+		"sharpnessGreen": 25,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 550,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 352,
+				"name": "Azure Rathalos Scale+",
+				"description": "Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 354,
+				"name": "Azure Rathalos Tail",
+				"description": "Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 351,
+				"name": "Rathalos Ruby",
+				"description": "A rare gem said to have formed within Rathalos tissue. Almost too nice to use.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 423,
+				"name": "Teostra Horn+",
+				"description": "Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 552,
+	"slug": "bone-lance-1",
+	"name": "Bone Lance 1",
+	"type": "lance",
+	"rarity": 1,
+	"attributes": {
+		"attack": 207,
+		"sharpnessRed": 25,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 10
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [553],
+		"craftingMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 553,
+	"slug": "bone-lance-2",
+	"name": "Bone Lance 2",
+	"type": "lance",
+	"rarity": 1,
+	"attributes": {
+		"attack": 230,
+		"sharpnessRed": 22,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 552,
+		"branches": [554, 567],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 147,
+				"name": "Monster Bone S",
+				"description": "A material found in bonepiles. Indispensable for both hunting and daily life.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 554,
+	"slug": "bone-lance-3",
+	"name": "Bone Lance 3",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 253,
+		"sharpnessRed": 20,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 13,
+		"sharpnessGreen": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 553,
+		"branches": [555, 562],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 555,
+	"slug": "hard-bone-lance-1",
+	"name": "Hard Bone Lance 1",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 322,
+		"sharpnessRed": 30,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 554,
+		"branches": [556],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 148,
+				"name": "Monster Bone M",
+				"description": "Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 556,
+	"slug": "hard-bone-lance-2",
+	"name": "Hard Bone Lance 2",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 345,
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 555,
+		"branches": [557],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 557,
+	"slug": "hard-bone-lance-3",
+	"name": "Hard Bone Lance 3",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 368,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Poison",
+		"sharpnessRed": 35,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 556,
+		"branches": [558],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 558,
+	"slug": "heavy-bone-lance-1",
+	"name": "Heavy Bone Lance 1",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Poison",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 557,
+		"branches": [559, 560],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 151,
+				"name": "Monster Keenbone",
+				"description": "Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 559,
+	"slug": "heavy-bone-lance-2",
+	"name": "Heavy Bone Lance 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 437,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Poison",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 12,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 558,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 20,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 560,
+	"slug": "hazak-w\u00e4chter",
+	"name": "Hazak W\u00e4chter",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 437,
+		"slotsRank2": 1,
+		"elementDamage": 240,
+		"elementType": "Dragon",
+		"sharpnessRed": 35,
+		"sharpnessOrange": 27,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 558,
+		"branches": [561],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 412,
+				"name": "Deceased Scale",
+				"description": "Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 416,
+				"name": "Vaal Hazak Fang+",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 414,
+				"name": "Vaal Hazak Membrane",
+				"description": "Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 417,
+				"name": "Vaal Hazak Talon",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 561,
+	"slug": "loves-sorrow",
+	"name": "Love's Sorrow",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 460,
+		"slotsRank2": 1,
+		"elementDamage": 270,
+		"elementType": "Dragon",
+		"sharpnessRed": 50,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 5,
+		"sharpnessGreen": 5,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 560,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 419,
+				"name": "Vaal Hazak Gem",
+				"description": "A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 415,
+				"name": "Vaal Hazak Tail",
+				"description": "Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 417,
+				"name": "Vaal Hazak Talon",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 438,
+				"name": "Xeno'jiiva Veil",
+				"description": "A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 562,
+	"slug": "taurus-lance-1",
+	"name": "Taurus Lance 1",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 276,
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 554,
+		"branches": [563],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 182,
+				"name": "Hornetaur Shell",
+				"description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 183,
+				"name": "Hornetaur Wing",
+				"description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 156,
+				"name": "Monster Fluid",
+				"description": "Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 563,
+	"slug": "taurus-lance-2",
+	"name": "Taurus Lance 2",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"sharpnessRed": 25,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 562,
+		"branches": [564],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 184,
+				"name": "Hornetaur Head",
+				"description": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 182,
+				"name": "Hornetaur Shell",
+				"description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 183,
+				"name": "Hornetaur Wing",
+				"description": "Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 332,
+				"name": "Odogaron Fang",
+				"description": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 564,
+	"slug": "dark-stinger-1",
+	"name": "Dark Stinger 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 322,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Blast",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": 563,
+		"branches": [565],
+		"craftingMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 185,
+				"name": "Hornetaur Carapace",
+				"description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 184,
+				"name": "Hornetaur Head",
+				"description": "Hornetaur material. Obtained by carving. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 186,
+				"name": "Hornetaur Innerwing",
+				"description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 185,
+				"name": "Hornetaur Carapace",
+				"description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 186,
+				"name": "Hornetaur Innerwing",
+				"description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 157,
+				"name": "Monster Broth",
+				"description": "Material from high rank insects. A rich broth made from only the thickest of monster juices.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 565,
+	"slug": "dark-stinger-2",
+	"name": "Dark Stinger 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 345,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Blast",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 564,
+		"branches": [566],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 355,
+				"name": "Azure Rathalos Wing",
+				"description": "Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 185,
+				"name": "Hornetaur Carapace",
+				"description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 186,
+				"name": "Hornetaur Innerwing",
+				"description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 566,
+	"slug": "dark-stinger-3",
+	"name": "Dark Stinger 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Blast",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 8,
+		"sharpnessYellow": 15,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10,
+		"sharpnessWhite": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 565,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 185,
+				"name": "Hornetaur Carapace",
+				"description": "Rare Hornetaur material. Obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 186,
+				"name": "Hornetaur Innerwing",
+				"description": "Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 416,
+				"name": "Vaal Hazak Fang+",
+				"description": "Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 567,
+	"slug": "carapace-lance-1",
+	"name": "Carapace Lance 1",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 253,
+		"sharpnessRed": 17,
+		"sharpnessOrange": 13,
+		"sharpnessYellow": 12,
+		"sharpnessGreen": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 553,
+		"branches": [568],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 239,
+				"name": "Barroth Claw",
+				"description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 238,
+				"name": "Barroth Ridge",
+				"description": "Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 237,
+				"name": "Barroth Shell",
+				"description": "Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 568,
+	"slug": "carapace-lance-2",
+	"name": "Carapace Lance 2",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 276,
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 567,
+		"branches": [569, 573, 577],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 239,
+				"name": "Barroth Claw",
+				"description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 241,
+				"name": "Barroth Tail",
+				"description": "Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 118,
+				"name": "Dragonite Ore",
+				"description": "An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 195,
+				"name": "Kestodon Shell",
+				"description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 569,
+	"slug": "carapace-lance-3",
+	"name": "Carapace Lance 3",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 345,
+		"sharpnessRed": 25,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 568,
+		"branches": [570],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 239,
+				"name": "Barroth Claw",
+				"description": "Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 240,
+				"name": "Barroth Scalp",
+				"description": "Barroth material. Obtained by breaking its scalp. Tough, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 356,
+				"name": "Diablos Shell",
+				"description": "Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 570,
+	"slug": "barroth-stinger-1",
+	"name": "Barroth Stinger 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 391,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 300,
+		"elementType": "Paralysis",
+		"sharpnessRed": 32,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 18
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 569,
+		"branches": [571],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 243,
+				"name": "Barroth Carapace",
+				"description": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 245,
+				"name": "Barroth Claw+",
+				"description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 244,
+				"name": "Barroth Ridge+",
+				"description": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 197,
+				"name": "Kestodon Carapace",
+				"description": "Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 571,
+	"slug": "barroth-stinger-2",
+	"name": "Barroth Stinger 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 437,
+		"slotsRank1": 2,
+		"elementHidden": true,
+		"elementDamage": 330,
+		"elementType": "Paralysis",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 23
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 570,
+		"branches": [572],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 243,
+				"name": "Barroth Carapace",
+				"description": "Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 245,
+				"name": "Barroth Claw+",
+				"description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 362,
+				"name": "Diablos Carapace",
+				"description": "Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 198,
+				"name": "Gastodon Carapace",
+				"description": "Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 572,
+	"slug": "barroth-stinger-3",
+	"name": "Barroth Stinger 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 460,
+		"slotsRank2": 1,
+		"slotsRank1": 1,
+		"elementHidden": true,
+		"elementDamage": 390,
+		"elementType": "Paralysis",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 12,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 571,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 245,
+				"name": "Barroth Claw+",
+				"description": "Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 244,
+				"name": "Barroth Ridge+",
+				"description": "Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 408,
+				"name": "Nergigante Horn+",
+				"description": "Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 573,
+	"slug": "garon-lance-1",
+	"name": "Garon Lance 1",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 299,
+		"sharpnessRed": 22,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 568,
+		"branches": [574],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 331,
+				"name": "Odogaron Claw",
+				"description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 332,
+				"name": "Odogaron Fang",
+				"description": "Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 329,
+				"name": "Odogaron Scale",
+				"description": "Odogaron material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 574,
+	"slug": "garon-lance-2",
+	"name": "Garon Lance 2",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 322,
+		"elementHidden": true,
+		"elementDamage": 150,
+		"elementType": "Fire",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 573,
+		"branches": [575],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 331,
+				"name": "Odogaron Claw",
+				"description": "Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 334,
+				"name": "Odogaron Plate",
+				"description": "Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 333,
+				"name": "Odogaron Tail",
+				"description": "Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 575,
+	"slug": "garon-dhara-1",
+	"name": "Garon Dhara 1",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 345,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Fire",
+		"sharpnessRed": 20,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 574,
+		"branches": [576],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 337,
+				"name": "Odogaron Claw+",
+				"description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 338,
+				"name": "Odogaron Fang+",
+				"description": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 335,
+				"name": "Odogaron Scale+",
+				"description": "Rare Odogaron material. Mostly obtained by carving Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 576,
+	"slug": "garon-dhara-2",
+	"name": "Garon Dhara 2",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 391,
+		"elementHidden": true,
+		"elementDamage": 210,
+		"elementType": "Fire",
+		"sharpnessRed": 42,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 7,
+		"sharpnessBlue": 10,
+		"sharpnessWhite": 8
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 575,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 337,
+				"name": "Odogaron Claw+",
+				"description": "Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 338,
+				"name": "Odogaron Fang+",
+				"description": "Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 339,
+				"name": "Odogaron Gem",
+				"description": "A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 425,
+				"name": "Teostra Claw+",
+				"description": "Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 577,
+	"slug": "aqua-horn-1",
+	"name": "Aqua Horn 1",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 253,
+		"elementDamage": 150,
+		"elementType": "Water",
+		"sharpnessRed": 20,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 13,
+		"sharpnessGreen": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 568,
+		"branches": [578],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 166,
+				"name": "Aqua Sac",
+				"description": "A monster organ designed to hold and preserve water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 246,
+				"name": "Jyuratodus Scale",
+				"description": "Jyuratodus material. Mostly obtained by carving. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 247,
+				"name": "Jyuratodus Shell",
+				"description": "Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 578,
+	"slug": "aqua-horn-2",
+	"name": "Aqua Horn 2",
+	"type": "lance",
+	"rarity": 2,
+	"attributes": {
+		"attack": 276,
+		"elementDamage": 180,
+		"elementType": "Water",
+		"sharpnessRed": 30,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 577,
+		"branches": [579],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 187,
+				"name": "Gajau Skin",
+				"description": "Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 249,
+				"name": "Jyuratodus Fin",
+				"description": "Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 579,
+	"slug": "aqua-horn-3",
+	"name": "Aqua Horn 3",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 322,
+		"elementDamage": 210,
+		"elementType": "Water",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 578,
+		"branches": [580],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 140,
+				"name": "Coral Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 188,
+				"name": "Gajau Whisker",
+				"description": "Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 248,
+				"name": "Jyuratodus Fang",
+				"description": "Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 580,
+	"slug": "water-spike-1",
+	"name": "Water Spike 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 345,
+		"slotsRank2": 1,
+		"elementDamage": 240,
+		"elementType": "Water",
+		"sharpnessRed": 35,
+		"sharpnessOrange": 17,
+		"sharpnessYellow": 8,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 579,
+		"branches": [581],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 189,
+				"name": "Gajau Scale",
+				"description": "Rare Gajau material. Obtained by carving. Water resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 251,
+				"name": "Jyuratodus Carapace",
+				"description": "Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 250,
+				"name": "Jyuratodus Scale+",
+				"description": "Rare Jyuratodus material. Mostly obtained by carving Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 137,
+				"name": "Quality Bone",
+				"description": "A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 581,
+	"slug": "water-spike-2",
+	"name": "Water Spike 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 1,
+		"elementDamage": 270,
+		"elementType": "Water",
+		"sharpnessRed": 25,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 580,
+		"branches": [582],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 190,
+				"name": "Grand Gajau Whisker",
+				"description": "Rare Gajau material. Obtained by carving. Hardy, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 152,
+				"name": "Monster Hardbone",
+				"description": "Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 167,
+				"name": "Torrent Sac",
+				"description": "A monster organ designed to hold and preserve copious amounts of water.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 582,
+	"slug": "water-spike-3",
+	"name": "Water Spike 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 437,
+		"slotsRank2": 1,
+		"elementDamage": 300,
+		"elementType": "Water",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 13,
+		"sharpnessBlue": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 581,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 252,
+				"name": "Jyuratodus Fang+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 253,
+				"name": "Jyuratodus Fin+",
+				"description": "Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 583,
+	"slug": "dragonbone-lance-1",
+	"name": "Dragonbone Lance 1",
+	"type": "lance",
+	"rarity": 3,
+	"attributes": {
+		"attack": 230,
+		"elementDamage": 300,
+		"elementType": "Dragon",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 10
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [584, 588],
+		"craftingMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 138,
+				"name": "Ancient Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 139,
+				"name": "Boulder Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 140,
+				"name": "Coral Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 141,
+				"name": "Warped Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 584,
+	"slug": "dragonbone-lance-2",
+	"name": "Dragonbone Lance 2",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 253,
+		"elementDamage": 360,
+		"elementType": "Dragon",
+		"sharpnessRed": 17,
+		"sharpnessOrange": 18,
+		"sharpnessYellow": 7,
+		"sharpnessGreen": 20
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 583,
+		"branches": [585, 586],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 8,
+			"item": {
+				"id": 149,
+				"name": "Monster Bone L",
+				"description": "Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 150,
+				"name": "Monster Bone+",
+				"description": "Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 8,
+			"item": {
+				"id": 136,
+				"name": "Sturdy Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 585,
+	"slug": "dragonbone-lance-3",
+	"name": "Dragonbone Lance 3",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 368,
+		"slotsRank1": 1,
+		"elementDamage": 420,
+		"elementType": "Dragon",
+		"sharpnessRed": 30,
+		"sharpnessOrange": 27,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 584,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 142,
+				"name": "Brutal Bone",
+				"description": "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 143,
+				"name": "Dragonbone Relic",
+				"description": "A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 153,
+				"name": "Elder Dragon Bone",
+				"description": "A bone from an elder dragon. It exudes the great majesty of the beast that bore it.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 586,
+	"slug": "rookslayer-lance",
+	"name": "Rookslayer Lance",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 414,
+		"elementDamage": 180,
+		"elementType": "Blast",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 25,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 10,
+		"sharpnessBlue": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 584,
+		"branches": [587],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 401,
+				"name": "Bazelgeuse Fuse",
+				"description": "Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 398,
+				"name": "Bazelgeuse Scale+",
+				"description": "Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 402,
+				"name": "Bazelgeuse Talon",
+				"description": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 587,
+	"slug": "bazel-myniad-rookslayer",
+	"name": "Bazel Myniad Rookslayer",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 460,
+		"elementDamage": 210,
+		"elementType": "Blast",
+		"sharpnessRed": 17,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 586,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 404,
+				"name": "Bazelgeuse Gem",
+				"description": "A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 402,
+				"name": "Bazelgeuse Talon",
+				"description": "Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 403,
+				"name": "Bazelgeuse Wing",
+				"description": "Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 442,
+				"name": "Xeno'jiiva Wing",
+				"description": "A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 588,
+	"slug": "thunderpike",
+	"name": "Thunderpike",
+	"type": "lance",
+	"rarity": 4,
+	"attributes": {
+		"attack": 253,
+		"elementDamage": 420,
+		"elementType": "Thunder",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 12,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 583,
+		"branches": [589],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 369,
+				"name": "Kirin Hide",
+				"description": "Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 370,
+				"name": "Kirin Tail",
+				"description": "Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 372,
+				"name": "Kirin Thunderhorn",
+				"description": "Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 589,
+	"slug": "thunderspear",
+	"name": "Thunderspear",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 345,
+		"elementDamage": 480,
+		"elementType": "Thunder",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 5,
+		"sharpnessYellow": 5,
+		"sharpnessGreen": 38,
+		"sharpnessBlue": 12
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 588,
+		"branches": [590],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 375,
+				"name": "Kirin Azure Horn",
+				"description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 373,
+				"name": "Kirin Hide+",
+				"description": "Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 371,
+				"name": "Kirin Mane",
+				"description": "Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 590,
+	"slug": "thunderpiercer",
+	"name": "Thunderpiercer",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 368,
+		"elementDamage": 540,
+		"elementType": "Thunder",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 5,
+		"sharpnessYellow": 5,
+		"sharpnessGreen": 35,
+		"sharpnessBlue": 15
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 589,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 6,
+			"item": {
+				"id": 375,
+				"name": "Kirin Azure Horn",
+				"description": "Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 374,
+				"name": "Kirin Thundertail",
+				"description": "Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 591,
+	"slug": "blacksteel-lance-1",
+	"name": "Blacksteel Lance 1",
+	"type": "lance",
+	"rarity": 5,
+	"attributes": {
+		"attack": 230,
+		"elementDamage": 120,
+		"elementType": "Dragon",
+		"sharpnessRed": 37,
+		"sharpnessOrange": 28,
+		"sharpnessYellow": 10
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [592],
+		"craftingMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 122,
+				"name": "Coral Crystal",
+				"description": "Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 123,
+				"name": "Dragonvein Crystal",
+				"description": "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 10,
+			"item": {
+				"id": 121,
+				"name": "Earth Crystal",
+				"description": "Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 124,
+				"name": "Lightcrystal",
+				"description": "A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 592,
+	"slug": "blacksteel-lance-2",
+	"name": "Blacksteel Lance 2",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 253,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"sharpnessRed": 35,
+		"sharpnessOrange": 27,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 3
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 591,
+		"branches": [593, 595],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 10,
+			"item": {
+				"id": 119,
+				"name": "Carbalite Ore",
+				"description": "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 126,
+				"name": "Firecell Stone",
+				"description": "A magma-like deposit that only trained hands can work with. Armor made from it is first-class.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 120,
+				"name": "Fucium Ore",
+				"description": "Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 593,
+	"slug": "icesteel-spear",
+	"name": "Icesteel Spear",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 391,
+		"slotsRank2": 1,
+		"elementDamage": 210,
+		"elementType": "Ice",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 592,
+		"branches": [594],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 3,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 433,
+				"name": "Daora Tail",
+				"description": "Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 431,
+				"name": "Daora Webbing",
+				"description": "Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 406,
+				"name": "Nergigante Carapace",
+				"description": "Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 594,
+	"slug": "daoras-fang",
+	"name": "Daora's Fang",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 414,
+		"slotsRank2": 1,
+		"elementDamage": 240,
+		"elementType": "Ice",
+		"sharpnessRed": 22,
+		"sharpnessOrange": 15,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 593,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 434,
+				"name": "Daora Claw+",
+				"description": "Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 435,
+				"name": "Daora Gem",
+				"description": "A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 432,
+				"name": "Daora Horn+",
+				"description": "Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 442,
+				"name": "Xeno'jiiva Wing",
+				"description": "A rare Xeno'jiva wing. The wing membrane shines with the divine light of a powerful deity.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 595,
+	"slug": "xeno-zauta",
+	"name": "Xeno Zauta",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 391,
+		"slotsRank3": 2,
+		"elementDamage": 180,
+		"elementType": "Dragon",
+		"sharpnessRed": 32,
+		"sharpnessOrange": 8,
+		"sharpnessYellow": 15,
+		"sharpnessGreen": 20,
+		"sharpnessBlue": 10,
+		"sharpnessWhite": 2
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 592,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 441,
+				"name": "Xeno'jiiva Claw",
+				"description": "A rare Xeno'jiiva claw, said to cleave soul from flesh.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 443,
+				"name": "Xeno'jiiva Gem",
+				"description": "A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 437,
+				"name": "Xeno'jiiva Shell",
+				"description": "A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 439,
+				"name": "Xeno'jiiva Tail",
+				"description": "A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 596,
+	"slug": "babel-spear",
+	"name": "Babel Spear",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 414,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 270,
+		"elementType": "Fire",
+		"sharpnessRed": 30,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 12,
+		"sharpnessBlue": 5
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [597],
+		"craftingMaterials": [{
+			"quantity": 4,
+			"item": {
+				"id": 490,
+				"name": "Gama Coin",
+				"description": "A coin given to those who have bested a Dodogama in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 495,
+				"name": "Hunter King Coin",
+				"description": "A silver coin given to true hunters. It shines with all the glory of the Hunter King.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 1,
+			"item": {
+				"id": 125,
+				"name": "Novacrystal",
+				"description": "High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 491,
+				"name": "Rathalos Coin",
+				"description": "A coin given to those who have bested a Rathalos in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 597,
+	"slug": "elder-babel-spear",
+	"name": "Elder Babel Spear",
+	"type": "lance",
+	"rarity": 8,
+	"attributes": {
+		"attack": 460,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 330,
+		"elementType": "Fire",
+		"sharpnessRed": 27,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 10,
+		"sharpnessGreen": 13,
+		"sharpnessBlue": 7
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 596,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 5,
+			"item": {
+				"id": 496,
+				"name": "Ace Hunter Coin",
+				"description": "A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 492,
+				"name": "Brute Coin",
+				"description": "A coin given to those who have bested multiple brute Wyverns at the same time in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 4,
+			"item": {
+				"id": 493,
+				"name": "Flying Coin",
+				"description": "A coin given to those who have bested multiple flying Wyverns at the same time in the Arena.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 173,
+				"name": "Wyvern Gem",
+				"description": "Throughout a wyvern's life, impurities gather and form this peculiar gem.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}, {
+	"id": 1162,
+	"slug": "grief-lance",
+	"name": "Grief Lance",
+	"type": "lance",
+	"rarity": 6,
+	"attributes": {
+		"attack": 483,
+		"elementDamage": 150,
+		"elementType": "Dragon",
+		"sharpnessRed": 15,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15,
+		"sharpnessBlue": 7
+	},
+	"crafting": {
+		"craftable": true,
+		"previous": null,
+		"branches": [1163],
+		"craftingMaterials": [{
+			"quantity": 2,
+			"item": {
+				"id": 522,
+				"name": "Deviljho Saliva",
+				"description": "Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 6,
+			"item": {
+				"id": 516,
+				"name": "Deviljho Scale",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 3,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 519,
+				"name": "Deviljho Talon",
+				"description": "Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1163,
+	"slug": "fiendish-tower",
+	"name": "Fiendish Tower",
+	"type": "lance",
+	"rarity": 7,
+	"attributes": {
+		"attack": 529,
+		"elementDamage": 210,
+		"elementType": "Dragon",
+		"sharpnessRed": 12,
+		"sharpnessOrange": 30,
+		"sharpnessYellow": 20,
+		"sharpnessGreen": 15,
+		"sharpnessBlue": 10
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1162,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": [{
+			"quantity": 1,
+			"item": {
+				"id": 523,
+				"name": "Deviljho Gem",
+				"description": "A rare gem said to have formed iwithin Deviljho tissue. Used to dramaticaly improve gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 2,
+			"item": {
+				"id": 520,
+				"name": "Deviljho Scalp",
+				"description": "Rare Deviljho material. Obtained by breakin gits head. Unusual, used in select gear.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 518,
+				"name": "Deviljho Tallfang",
+				"description": "Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}, {
+			"quantity": 5,
+			"item": {
+				"id": 174,
+				"name": "Elder Dragon Blood",
+				"description": "Contains an unknown compound. The object of much scholarly research.",
+				"rarity": 0,
+				"sellPrice": 0,
+				"buyPrice": 0,
+				"carryLimit": 0
+			}
+		}]
+	}
+}]
