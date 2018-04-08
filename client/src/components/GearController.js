@@ -6,6 +6,7 @@ import Card, { CardContent, CardActions, CardText } from 'material-ui/Card';
 import Collapse from 'material-ui/transitions/Collapse';
 import IconButton from 'material-ui/IconButton';
 import classnames from 'classnames';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 const styles = {
 	card: {
@@ -55,8 +56,14 @@ class GearController extends React.Component{
 	        		<Card style={styles.card}>
 	        			<CardContent>
 	        				Feet
+	        				<IconButton onClick={this.handleExpandClick}>
+	        					<ExpandMoreIcon/>
+	        				</IconButton>
 	        			</CardContent>
-	        			<Collapse in={true}>
+	        			<Collapse in={this.state.expanded} timeout="auto" unmountOnExit>
+	        				<CardContent>
+	        					Placeholder data, messing around.
+	        				</CardContent>
 	        			</Collapse>
 	        		</Card>
 	        	</Grid>
