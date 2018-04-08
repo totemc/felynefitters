@@ -440,7 +440,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 13,
-		"sharpnessBlue": 20
+		"sharpnessBlue": 20,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -508,7 +509,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 13,
-		"sharpnessBlue": 25
+		"sharpnessBlue": 25,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -569,6 +571,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 182,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Fire",
 		"sharpnessRed": 15,
@@ -635,6 +638,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 196,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 120,
 		"elementType": "Fire",
@@ -702,6 +706,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 224,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 150,
 		"elementType": "Fire",
@@ -770,6 +775,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 266,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -1701,6 +1707,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 168,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Poison",
 		"sharpnessRed": 15,
@@ -1800,6 +1807,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 210,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Poison",
@@ -1868,6 +1876,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 238,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Poison",
@@ -1936,6 +1945,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 266,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Poison",
@@ -2724,6 +2734,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 168,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Paralysis",
 		"sharpnessRed": 17,
@@ -2779,6 +2790,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 182,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Paralysis",
 		"sharpnessRed": 12,
@@ -2845,6 +2857,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 196,
+		"affinity": 20,
 		"elementDamage": 180,
 		"elementType": "Paralysis",
 		"sharpnessRed": 25,
@@ -2912,6 +2925,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 210,
+		"affinity": 20,
 		"elementDamage": 210,
 		"elementType": "Paralysis",
 		"sharpnessRed": 22,
@@ -2979,6 +2993,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 224,
+		"affinity": 20,
 		"elementDamage": 240,
 		"elementType": "Paralysis",
 		"sharpnessRed": 20,
@@ -4676,6 +4691,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 252,
+		"affinity": -10,
 		"slotsRank1": 1,
 		"elementHidden": true,
 		"elementDamage": 120,
@@ -4744,6 +4760,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 266,
+		"affinity": -10,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 150,
@@ -4813,6 +4830,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 294,
+		"affinity": -10,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 180,
@@ -4882,6 +4900,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 196,
+		"affinity": -20,
 		"elementDamage": 150,
 		"elementType": "Fire",
 		"sharpnessRed": 30,
@@ -4937,6 +4956,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 224,
+		"affinity": -20,
 		"elementDamage": 180,
 		"elementType": "Fire",
 		"sharpnessRed": 25,
@@ -5003,6 +5023,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 266,
+		"affinity": -20,
 		"elementDamage": 210,
 		"elementType": "Fire",
 		"sharpnessRed": 25,
@@ -5114,6 +5135,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 294,
+		"affinity": -20,
 		"elementDamage": 240,
 		"elementType": "Fire",
 		"sharpnessRed": 25,
@@ -5186,7 +5208,8 @@
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 10
+		"sharpnessGreen": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5252,7 +5275,8 @@
 		"sharpnessRed": 17,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 20
+		"sharpnessGreen": 20,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5309,7 +5333,8 @@
 		"sharpnessOrange": 25,
 		"sharpnessYellow": 8,
 		"sharpnessGreen": 7,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5574,7 +5599,8 @@
 		"elementType": "Dragon",
 		"sharpnessRed": 37,
 		"sharpnessOrange": 28,
-		"sharpnessYellow": 10
+		"sharpnessYellow": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5640,7 +5666,8 @@
 		"sharpnessRed": 35,
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
-		"sharpnessGreen": 3
+		"sharpnessGreen": 3,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5835,6 +5862,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 238,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 270,
 		"elementType": "Dragon",
@@ -5843,7 +5871,8 @@
 		"sharpnessYellow": 15,
 		"sharpnessGreen": 20,
 		"sharpnessBlue": 10,
-		"sharpnessWhite": 2
+		"sharpnessWhite": 2,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5904,13 +5933,15 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 280,
+		"affinity": -20,
 		"elementDamage": 150,
 		"elementType": "Dragon",
 		"sharpnessRed": 15,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5971,13 +6002,15 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 308,
+		"affinity": -20,
 		"elementDamage": 210,
 		"elementType": "Dragon",
 		"sharpnessRed": 12,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,

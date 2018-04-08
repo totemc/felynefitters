@@ -1,7 +1,7 @@
 [{
 	"id": 756,
-	"slug": "proto-commision-axe-1",
-	"name": "Proto Commision Axe 1",
+	"slug": "proto-commission-axe-1",
+	"name": "Proto Commission Axe 1",
 	"type": "charge-blade",
 	"rarity": 1,
 	"attributes": {
@@ -31,8 +31,8 @@
 	}
 }, {
 	"id": 757,
-	"slug": "proto-commision-axe-2",
-	"name": "Proto Commision Axe 2",
+	"slug": "proto-commission-axe-2",
+	"name": "Proto Commission Axe 2",
 	"type": "charge-blade",
 	"rarity": 1,
 	"attributes": {
@@ -63,8 +63,8 @@
 	}
 }, {
 	"id": 758,
-	"slug": "proto-commision-axe-3",
-	"name": "Proto Commision Axe 3",
+	"slug": "proto-commission-axe-3",
+	"name": "Proto Commission Axe 3",
 	"type": "charge-blade",
 	"rarity": 2,
 	"attributes": {
@@ -117,8 +117,8 @@
 	}
 }, {
 	"id": 759,
-	"slug": "elite-commision-axe-1",
-	"name": "Elite Commision Axe 1",
+	"slug": "elite-commission-axe-1",
+	"name": "Elite Commission Axe 1",
 	"type": "charge-blade",
 	"rarity": 3,
 	"attributes": {
@@ -171,8 +171,8 @@
 	}
 }, {
 	"id": 760,
-	"slug": "elite-commision-axe-2",
-	"name": "Elite Commision Axe 2",
+	"slug": "elite-commission-axe-2",
+	"name": "Elite Commission Axe 2",
 	"type": "charge-blade",
 	"rarity": 4,
 	"attributes": {
@@ -236,8 +236,8 @@
 	}
 }, {
 	"id": 761,
-	"slug": "elite-commision-axe-3",
-	"name": "Elite Commision Axe 3",
+	"slug": "elite-commission-axe-3",
+	"name": "Elite Commission Axe 3",
 	"type": "charge-blade",
 	"rarity": 5,
 	"attributes": {
@@ -449,7 +449,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 13,
-		"sharpnessBlue": 20
+		"sharpnessBlue": 20,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -518,7 +519,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 12,
-		"sharpnessBlue": 23
+		"sharpnessBlue": 23,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -579,6 +581,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 432,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Fire",
 		"phialType": "Power Element Phial",
@@ -646,6 +649,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 576,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -714,6 +718,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 612,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -783,6 +788,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 684,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Fire",
@@ -2238,6 +2244,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 612,
+		"affinity": -30,
 		"phialType": "Impact Phial",
 		"sharpnessRed": 25,
 		"sharpnessOrange": 17,
@@ -2303,6 +2310,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 684,
+		"affinity": -30,
 		"elementHidden": true,
 		"elementDamage": 90,
 		"elementType": "Ice",
@@ -2371,6 +2379,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 756,
+		"affinity": -30,
 		"elementHidden": true,
 		"elementDamage": 120,
 		"elementType": "Ice",
@@ -2440,6 +2449,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 828,
+		"affinity": -30,
 		"elementHidden": true,
 		"elementDamage": 180,
 		"elementType": "Ice",
@@ -3042,6 +3052,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 432,
+		"affinity": 15,
 		"elementDamage": 180,
 		"elementType": "Paralysis",
 		"phialType": "Impact Phial",
@@ -3098,6 +3109,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 468,
+		"affinity": 15,
 		"elementDamage": 210,
 		"elementType": "Paralysis",
 		"phialType": "Impact Phial",
@@ -3165,6 +3177,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 504,
+		"affinity": 20,
 		"elementDamage": 240,
 		"elementType": "Paralysis",
 		"phialType": "Impact Phial",
@@ -3277,6 +3290,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 540,
+		"affinity": 20,
 		"elementDamage": 270,
 		"elementType": "Paralysis",
 		"phialType": "Impact Phial",
@@ -3345,6 +3359,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 576,
+		"affinity": 20,
 		"elementDamage": 300,
 		"elementType": "Paralysis",
 		"phialType": "Impact Phial",
@@ -3421,7 +3436,8 @@
 		"sharpnessOrange": 28,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 10,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3490,7 +3506,8 @@
 		"sharpnessOrange": 17,
 		"sharpnessYellow": 5,
 		"sharpnessGreen": 5,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3551,6 +3568,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 396,
+		"affinity": 10,
 		"elementDamage": 90,
 		"elementType": "Thunder",
 		"phialType": "Power Element Phial",
@@ -3607,6 +3625,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 432,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Thunder",
 		"phialType": "Power Element Phial",
@@ -3674,6 +3693,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 468,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Thunder",
 		"phialType": "Power Element Phial",
@@ -3741,6 +3761,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 504,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 150,
 		"elementType": "Thunder",
@@ -3810,6 +3831,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 576,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Thunder",
@@ -3879,6 +3901,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 648,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Thunder",
@@ -3948,6 +3971,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 468,
+		"affinity": 20,
 		"phialType": "Impact Phial",
 		"sharpnessRed": 22,
 		"sharpnessOrange": 18,
@@ -4002,6 +4026,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 504,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 120,
 		"elementType": "Fire",
@@ -4071,6 +4096,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 540,
+		"affinity": 25,
 		"elementHidden": true,
 		"elementDamage": 150,
 		"elementType": "Fire",
@@ -4140,6 +4166,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 576,
+		"affinity": 25,
 		"elementHidden": true,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -4216,7 +4243,8 @@
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 10
+		"sharpnessGreen": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4283,7 +4311,8 @@
 		"sharpnessRed": 17,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 20
+		"sharpnessGreen": 20,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4341,7 +4370,8 @@
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 10,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4402,6 +4432,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 576,
+		"affinity": -10,
 		"elementDamage": 180,
 		"elementType": "Blast",
 		"phialType": "Impact Phial",
@@ -4469,6 +4500,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 756,
+		"affinity": -10,
 		"elementDamage": 210,
 		"elementType": "Blast",
 		"phialType": "Impact Phial",
@@ -4541,7 +4573,8 @@
 		"phialType": "Impact Phial",
 		"sharpnessRed": 37,
 		"sharpnessOrange": 28,
-		"sharpnessYellow": 10
+		"sharpnessYellow": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4608,7 +4641,8 @@
 		"sharpnessRed": 35,
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
-		"sharpnessGreen": 3
+		"sharpnessGreen": 3,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4669,6 +4703,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 612,
+		"affinity": 10,
 		"slotsRank2": 1,
 		"elementDamage": 150,
 		"elementType": "Ice",
@@ -4738,6 +4773,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 648,
+		"affinity": 15,
 		"slotsRank2": 1,
 		"slotsRank1": 1,
 		"elementDamage": 180,
@@ -4808,6 +4844,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 648,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 180,
 		"elementType": "Dragon",
@@ -4817,7 +4854,8 @@
 		"sharpnessYellow": 15,
 		"sharpnessGreen": 20,
 		"sharpnessBlue": 10,
-		"sharpnessWhite": 2
+		"sharpnessWhite": 2,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4878,6 +4916,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 720,
+		"affinity": -25,
 		"elementDamage": 150,
 		"elementType": "Dragon",
 		"phialType": "Power Element Phial",
@@ -4885,7 +4924,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4946,6 +4986,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 792,
+		"affinity": -25,
 		"elementDamage": 210,
 		"elementType": "Dragon",
 		"phialType": "Power Element Phial",
@@ -4953,7 +4994,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
