@@ -576,6 +576,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 230,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Thunder",
 		"shellingType": "Long LV1",
@@ -632,6 +633,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 253,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Thunder",
 		"shellingType": "Long LV1",
@@ -699,6 +701,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 299,
+		"affinity": 10,
 		"elementDamage": 180,
 		"elementType": "Thunder",
 		"shellingType": "Long LV1",
@@ -766,6 +769,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 345,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Thunder",
@@ -879,6 +883,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 391,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Thunder",
@@ -948,6 +953,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 414,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 270,
 		"elementType": "Thunder",
@@ -1017,6 +1023,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 276,
+		"affinity": 15,
 		"elementDamage": 120,
 		"elementType": "Fire",
 		"shellingType": "Long LV1",
@@ -1084,6 +1091,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 322,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 150,
 		"elementType": "Fire",
@@ -1152,6 +1160,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 345,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -1221,6 +1230,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 414,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -1290,6 +1300,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 437,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Fire",
@@ -1359,6 +1370,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 276,
+		"affinity": 10,
 		"elementDamage": 240,
 		"elementType": "Poison",
 		"shellingType": "Normal LV2",
@@ -1415,6 +1427,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 345,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 270,
 		"elementType": "Poison",
@@ -1484,6 +1497,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 391,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 300,
 		"elementType": "Poison",
@@ -1553,6 +1567,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 437,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 330,
 		"elementType": "Poison",
@@ -1817,8 +1832,8 @@
 	}
 }, {
 	"id": 626,
-	"slug": "jyura-blaster-1",
-	"name": "Jyura Blaster 1",
+	"slug": "jyura-buster-1",
+	"name": "Jyura Buster 1",
 	"type": "gunlance",
 	"rarity": 5,
 	"attributes": {
@@ -1884,8 +1899,8 @@
 	}
 }, {
 	"id": 627,
-	"slug": "jyura-blaster-2",
-	"name": "Jyura Blaster 2",
+	"slug": "jyura-buster-2",
+	"name": "Jyura Buster 2",
 	"type": "gunlance",
 	"rarity": 6,
 	"attributes": {
@@ -1952,8 +1967,8 @@
 	}
 }, {
 	"id": 628,
-	"slug": "jyura-blaster-3",
-	"name": "Jyura Blaster 3",
+	"slug": "jyura-buster-3",
+	"name": "Jyura Buster 3",
 	"type": "gunlance",
 	"rarity": 6,
 	"attributes": {
@@ -2687,6 +2702,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 437,
+		"affinity": -10,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Blast",
@@ -2756,6 +2772,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 460,
+		"affinity": -10,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Blast",
@@ -3354,6 +3371,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 322,
+		"affinity": 10,
 		"elementDamage": 330,
 		"elementType": "Paralysis",
 		"shellingType": "Normal LV3",
@@ -3465,6 +3483,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 345,
+		"affinity": 10,
 		"elementDamage": 390,
 		"elementType": "Paralysis",
 		"shellingType": "Normal LV3",
@@ -3533,6 +3552,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 368,
+		"affinity": 10,
 		"elementDamage": 450,
 		"elementType": "Paralysis",
 		"shellingType": "Normal LV3",
@@ -3739,6 +3759,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 276,
+		"affinity": -10,
 		"shellingType": "Wide LV1",
 		"sharpnessRed": 20,
 		"sharpnessOrange": 12,
@@ -3793,6 +3814,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 299,
+		"affinity": -10,
 		"shellingType": "Wide LV1",
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
@@ -3858,6 +3880,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 345,
+		"affinity": -10,
 		"shellingType": "Wide LV1",
 		"sharpnessRed": 22,
 		"sharpnessOrange": 18,
@@ -3923,6 +3946,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 391,
+		"affinity": -10,
 		"elementHidden": true,
 		"elementDamage": 270,
 		"elementType": "Paralysis",
@@ -3991,6 +4015,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 437,
+		"affinity": -10,
 		"elementHidden": true,
 		"elementDamage": 330,
 		"elementType": "Paralysis",
@@ -4060,6 +4085,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 460,
+		"affinity": -10,
 		"elementHidden": true,
 		"elementDamage": 390,
 		"elementType": "Paralysis",
@@ -4129,6 +4155,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 299,
+		"affinity": -20,
 		"elementDamage": 210,
 		"elementType": "Fire",
 		"shellingType": "Long LV1",
@@ -4185,6 +4212,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 322,
+		"affinity": -20,
 		"elementDamage": 240,
 		"elementType": "Fire",
 		"shellingType": "Long LV1",
@@ -4252,6 +4280,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 368,
+		"affinity": -20,
 		"elementDamage": 270,
 		"elementType": "Fire",
 		"shellingType": "Long LV2",
@@ -4319,6 +4348,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 414,
+		"affinity": -20,
 		"elementDamage": 330,
 		"elementType": "Fire",
 		"shellingType": "Long LV2",
@@ -4386,6 +4416,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 483,
+		"affinity": -20,
 		"elementDamage": 450,
 		"elementType": "Fire",
 		"shellingType": "Long LV3",
@@ -4646,6 +4677,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 368,
+		"affinity": -10,
 		"elementDamage": 330,
 		"elementType": "Blast",
 		"shellingType": "Long LV3",
@@ -4713,6 +4745,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 460,
+		"affinity": -10,
 		"elementDamage": 420,
 		"elementType": "Blast",
 		"shellingType": "Long LV4",
@@ -4913,6 +4946,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 391,
+		"affinity": 10,
 		"slotsRank3": 1,
 		"elementDamage": 210,
 		"elementType": "Ice",
@@ -4982,6 +5016,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 414,
+		"affinity": 10,
 		"slotsRank3": 1,
 		"elementDamage": 240,
 		"elementType": "Ice",
@@ -5051,6 +5086,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 391,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 180,
 		"elementType": "Dragon",
@@ -5121,6 +5157,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 483,
+		"affinity": -30,
 		"elementDamage": 180,
 		"elementType": "Dragon",
 		"shellingType": "Long LV3",
@@ -5189,6 +5226,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 529,
+		"affinity": -30,
 		"elementDamage": 240,
 		"elementType": "Dragon",
 		"shellingType": "Long LV3",

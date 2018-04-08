@@ -440,7 +440,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 12,
-		"sharpnessBlue": 18
+		"sharpnessBlue": 18,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -508,7 +509,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 13,
-		"sharpnessBlue": 20
+		"sharpnessBlue": 20,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -893,6 +895,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 330,
+		"affinity": 15,
 		"sharpnessRed": 17,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
@@ -946,6 +949,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 363,
+		"affinity": 15,
 		"sharpnessRed": 20,
 		"sharpnessOrange": 12,
 		"sharpnessYellow": 20,
@@ -1010,6 +1014,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 429,
+		"affinity": 15,
 		"sharpnessRed": 15,
 		"sharpnessOrange": 12,
 		"sharpnessYellow": 20,
@@ -1074,6 +1079,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 495,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 210,
 		"elementType": "Sleep",
@@ -1131,6 +1137,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 528,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 240,
 		"elementType": "Sleep",
@@ -1199,6 +1206,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 561,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 270,
 		"elementType": "Sleep",
@@ -1267,6 +1275,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 594,
+		"affinity": -10,
 		"slotsRank3": 1,
 		"elementDamage": 90,
 		"elementType": "Fire",
@@ -1335,6 +1344,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 660,
+		"affinity": -10,
 		"slotsRank3": 1,
 		"slotsRank1": 1,
 		"elementDamage": 120,
@@ -1404,6 +1414,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 363,
+		"affinity": 10,
 		"elementDamage": 240,
 		"elementType": "Poison",
 		"sharpnessRed": 22,
@@ -1503,6 +1514,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 495,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 270,
 		"elementType": "Poison",
@@ -1571,6 +1583,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 627,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 330,
 		"elementType": "Poison",
@@ -1639,6 +1652,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 396,
+		"affinity": 15,
 		"elementDamage": 150,
 		"elementType": "Fire",
 		"sharpnessRed": 20,
@@ -1705,6 +1719,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 528,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -1773,6 +1788,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 561,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -1841,6 +1857,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 627,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Fire",
@@ -2301,6 +2318,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 561,
+		"affinity": -10,
 		"slotsRank1": 2,
 		"elementDamage": 150,
 		"elementType": "Blast",
@@ -2369,6 +2387,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 660,
+		"affinity": -10,
 		"slotsRank1": 2,
 		"elementDamage": 210,
 		"elementType": "Blast",
@@ -2437,6 +2456,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 462,
+		"affinity": -20,
 		"elementDamage": 150,
 		"elementType": "Fire",
 		"sharpnessRed": 32,
@@ -2492,6 +2512,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 528,
+		"affinity": -20,
 		"elementDamage": 210,
 		"elementType": "Fire",
 		"sharpnessRed": 30,
@@ -2558,6 +2579,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 594,
+		"affinity": -20,
 		"elementDamage": 270,
 		"elementType": "Fire",
 		"sharpnessRed": 35,
@@ -2624,6 +2646,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 660,
+		"affinity": -20,
 		"elementDamage": 330,
 		"elementType": "Fire",
 		"sharpnessRed": 25,
@@ -2691,6 +2714,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 693,
+		"affinity": -20,
 		"elementDamage": 390,
 		"elementType": "Fire",
 		"sharpnessRed": 27,
@@ -3210,7 +3234,8 @@
 		"sharpnessOrange": 25,
 		"sharpnessYellow": 7,
 		"sharpnessGreen": 8,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3278,7 +3303,8 @@
 		"sharpnessOrange": 17,
 		"sharpnessYellow": 5,
 		"sharpnessGreen": 5,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3339,6 +3365,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 363,
+		"affinity": 10,
 		"elementDamage": 120,
 		"elementType": "Thunder",
 		"sharpnessRed": 15,
@@ -3394,6 +3421,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 396,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Thunder",
 		"sharpnessRed": 25,
@@ -3460,6 +3488,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 462,
+		"affinity": 10,
 		"elementDamage": 180,
 		"elementType": "Thunder",
 		"sharpnessRed": 22,
@@ -3526,6 +3555,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 528,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Thunder",
@@ -3594,6 +3624,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 561,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Thunder",
@@ -3662,6 +3693,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 594,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 270,
 		"elementType": "Thunder",
@@ -4317,7 +4349,8 @@
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 10
+		"sharpnessGreen": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4383,7 +4416,8 @@
 		"sharpnessRed": 25,
 		"sharpnessOrange": 17,
 		"sharpnessYellow": 8,
-		"sharpnessGreen": 12
+		"sharpnessGreen": 12,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4440,7 +4474,8 @@
 		"sharpnessOrange": 25,
 		"sharpnessYellow": 8,
 		"sharpnessGreen": 7,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4501,6 +4536,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 528,
+		"affinity": -20,
 		"slotsRank2": 1,
 		"elementDamage": 300,
 		"elementType": "Blast",
@@ -4568,6 +4604,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 726,
+		"affinity": -20,
 		"slotsRank2": 1,
 		"elementDamage": 360,
 		"elementType": "Blast",
@@ -4639,7 +4676,8 @@
 		"elementType": "Dragon",
 		"sharpnessRed": 37,
 		"sharpnessOrange": 28,
-		"sharpnessYellow": 10
+		"sharpnessYellow": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4705,7 +4743,8 @@
 		"sharpnessRed": 35,
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
-		"sharpnessGreen": 3
+		"sharpnessGreen": 3,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4900,6 +4939,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 594,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 180,
 		"elementType": "Dragon",
@@ -4908,7 +4948,8 @@
 		"sharpnessYellow": 15,
 		"sharpnessGreen": 20,
 		"sharpnessBlue": 10,
-		"sharpnessWhite": 2
+		"sharpnessWhite": 2,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4963,8 +5004,8 @@
 	}
 }, {
 	"id": 167,
-	"slug": "supermacy-blade",
-	"name": "Supermacy Blade",
+	"slug": "supremacy-blade",
+	"name": "Supremacy Blade",
 	"type": "long-sword",
 	"rarity": 6,
 	"attributes": {
@@ -4977,7 +5018,8 @@
 		"sharpnessOrange": 12,
 		"sharpnessYellow": 13,
 		"sharpnessGreen": 20,
-		"sharpnessBlue": 5
+		"sharpnessBlue": 5,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5035,7 +5077,8 @@
 		"sharpnessOrange": 15,
 		"sharpnessYellow": 15,
 		"sharpnessGreen": 25,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5096,6 +5139,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 363,
+		"affinity": 20,
 		"elementDamage": 120,
 		"elementType": "Water",
 		"sharpnessRed": 25,
@@ -5162,13 +5206,15 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 693,
+		"affinity": -25,
 		"elementDamage": 150,
 		"elementType": "Dragon",
 		"sharpnessRed": 15,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5229,13 +5275,15 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 759,
+		"affinity": -25,
 		"elementDamage": 210,
 		"elementType": "Dragon",
 		"sharpnessRed": 12,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,

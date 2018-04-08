@@ -410,7 +410,8 @@
 		"slotsRank1": 1,
 		"elementDamage": 120,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power"]
+		"coatings": ["Close Range", "Power"],
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -474,7 +475,8 @@
 		"slotsRank1": 1,
 		"elementDamage": 150,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power"]
+		"coatings": ["Close Range", "Power"],
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -535,6 +537,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 120,
+		"affinity": 15,
 		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
 	},
 	"crafting": {
@@ -585,6 +588,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 132,
+		"affinity": 15,
 		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
 	},
 	"crafting": {
@@ -646,6 +650,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 156,
+		"affinity": 15,
 		"coatings": ["Close Range", "Paralysis", "Sleep", "Blast"]
 	},
 	"crafting": {
@@ -707,6 +712,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 180,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 210,
 		"elementType": "Blast",
@@ -804,6 +810,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 192,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 240,
 		"elementType": "Blast",
@@ -868,6 +875,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 204,
+		"affinity": 20,
 		"elementHidden": true,
 		"elementDamage": 270,
 		"elementType": "Blast",
@@ -1060,6 +1068,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 132,
+		"affinity": 10,
 		"coatings": ["Close Range", "Power", "Poison"]
 	},
 	"crafting": {
@@ -1110,11 +1119,13 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 192,
+		"affinity": 10,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 180,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Poison"]
+		"coatings": ["Close Range", "Power", "Poison"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1175,6 +1186,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 216,
+		"affinity": 10,
 		"slotsRank2": 1,
 		"slotsRank1": 1,
 		"elementHidden": true,
@@ -1241,6 +1253,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 144,
+		"affinity": 15,
 		"elementDamage": 150,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Poison"]
@@ -1304,6 +1317,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 204,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -1368,6 +1382,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 216,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Fire",
@@ -2425,7 +2440,8 @@
 		"slotsRank2": 1,
 		"elementDamage": 240,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Sleep"]
+		"coatings": ["Close Range", "Power", "Sleep"],
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2489,7 +2505,8 @@
 		"slotsRank2": 1,
 		"elementDamage": 270,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Sleep"]
+		"coatings": ["Close Range", "Power", "Sleep"],
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2550,6 +2567,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 192,
+		"affinity": -30,
 		"coatings": ["Close Range", "Power", "Paralysis"]
 	},
 	"crafting": {
@@ -2611,6 +2629,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 216,
+		"affinity": -30,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 60,
@@ -2676,6 +2695,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 240,
+		"affinity": -30,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 90,
@@ -2785,6 +2805,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 252,
+		"affinity": -30,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 120,
@@ -2850,6 +2871,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 264,
+		"affinity": -30,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 150,
@@ -3285,6 +3307,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 156,
+		"affinity": -20,
 		"elementDamage": 210,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Blast"]
@@ -3337,6 +3360,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 168,
+		"affinity": -20,
 		"elementDamage": 270,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Blast"]
@@ -3400,6 +3424,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 192,
+		"affinity": -20,
 		"elementDamage": 330,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Blast"]
@@ -3463,6 +3488,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 216,
+		"affinity": -20,
 		"elementDamage": 360,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Blast"]
@@ -3526,6 +3552,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 240,
+		"affinity": -20,
 		"elementDamage": 390,
 		"elementType": "Fire",
 		"coatings": ["Close Range", "Power", "Blast"]
@@ -3589,6 +3616,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 144,
+		"affinity": 10,
 		"elementDamage": 150,
 		"elementType": "Thunder",
 		"coatings": ["Close Range", "Power", "Paralysis"]
@@ -3641,6 +3669,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 156,
+		"affinity": 10,
 		"elementDamage": 180,
 		"elementType": "Thunder",
 		"coatings": ["Close Range", "Power", "Paralysis"]
@@ -3704,6 +3733,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 168,
+		"affinity": 10,
 		"elementDamage": 210,
 		"elementType": "Thunder",
 		"coatings": ["Close Range", "Power", "Paralysis"]
@@ -3767,6 +3797,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 180,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 250,
 		"elementType": "Thunder",
@@ -3831,6 +3862,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 204,
+		"affinity": 15,
 		"slotsRank1": 1,
 		"elementDamage": 270,
 		"elementType": "Thunder",
@@ -3897,7 +3929,8 @@
 		"attack": 120,
 		"elementDamage": 300,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Paralysis", "Sleep"]
+		"coatings": ["Close Range", "Paralysis", "Sleep"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -3960,7 +3993,8 @@
 		"attack": 132,
 		"elementDamage": 360,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Paralysis", "Sleep"]
+		"coatings": ["Close Range", "Paralysis", "Sleep"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4013,7 +4047,8 @@
 		"slotsRank1": 2,
 		"elementDamage": 420,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Paralysis", "Sleep"]
+		"coatings": ["Close Range", "Paralysis", "Sleep"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4076,7 +4111,8 @@
 		"attack": 120,
 		"elementDamage": 120,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Paralysis", "Sleep"]
+		"coatings": ["Close Range", "Paralysis", "Sleep"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4139,7 +4175,8 @@
 		"attack": 132,
 		"elementDamage": 150,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Paralysis", "Sleep"]
+		"coatings": ["Close Range", "Paralysis", "Sleep"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4330,10 +4367,12 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 204,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 180,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Poison", "Blast"]
+		"coatings": ["Close Range", "Power", "Poison", "Blast"],
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4522,10 +4561,12 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 252,
+		"affinity": -25,
 		"slotsRank3": 1,
 		"elementDamage": 150,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Poison"]
+		"coatings": ["Close Range", "Power", "Poison"],
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4580,16 +4621,18 @@
 	}
 }, {
 	"id": 1177,
-	"slug": "villainous-bow",
-	"name": "Villainous Bow",
+	"slug": "villainous-brace",
+	"name": "Villainous Brace",
 	"type": "bow",
 	"rarity": 7,
 	"attributes": {
 		"attack": 276,
+		"affinity": -25,
 		"slotsRank3": 1,
 		"elementDamage": 210,
 		"elementType": "Dragon",
-		"coatings": ["Close Range", "Power", "Poison"]
+		"coatings": ["Close Range", "Power", "Poison"],
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4641,5 +4684,49 @@
 				"carryLimit": 0
 			}
 		}]
+	}
+}, {
+	"id": 1178,
+	"slug": "aloys-bow",
+	"name": "Aloy's Bow",
+	"type": "bow",
+	"rarity": 5,
+	"attributes": {
+		"attack": 168,
+		"affinity": 20,
+		"slotsRank2": 1,
+		"elementHidden": true,
+		"elementDamage": 180,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": null,
+		"branches": [1179],
+		"craftingMaterials": [],
+		"upgradeMaterials": []
+	}
+}, {
+	"id": 1179,
+	"slug": "aloys-war-bow",
+	"name": "Aloy's War Bow",
+	"type": "bow",
+	"rarity": 6,
+	"attributes": {
+		"attack": 192,
+		"affinity": 30,
+		"slotsRank3": 1,
+		"elementHidden": true,
+		"elementDamage": 240,
+		"elementType": "Thunder",
+		"coatings": ["Close Range", "Paralysis", "Poison"]
+	},
+	"crafting": {
+		"craftable": false,
+		"previous": 1178,
+		"branches": [],
+		"craftingMaterials": [],
+		"upgradeMaterials": []
 	}
 }]

@@ -5,9 +5,6 @@
 	"type": "light-bowgun",
 	"rarity": 1,
 	"attributes": {
-		"attack": 130,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -29,7 +26,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 130,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -56,9 +56,6 @@
 	"type": "light-bowgun",
 	"rarity": 1,
 	"attributes": {
-		"attack": 143,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -80,7 +77,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 143,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -107,9 +107,6 @@
 	"type": "light-bowgun",
 	"rarity": 2,
 	"attributes": {
-		"attack": 156,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -131,7 +128,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 156,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -169,9 +169,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -193,7 +190,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -242,9 +242,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -266,7 +263,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -315,10 +315,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 195,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -340,7 +336,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -389,10 +389,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -414,7 +410,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -474,10 +474,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 234,
-		"slotsRank1": 2,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 2],
@@ -499,7 +495,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -559,10 +559,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 247,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -584,7 +580,11 @@
 			"demon": [1],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -644,10 +644,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 260,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -669,7 +665,11 @@
 			"demon": [1],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -729,9 +729,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -753,7 +750,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"affinity": 10,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -802,9 +803,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -826,7 +824,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"affinity": 10,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -886,10 +888,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 195,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -911,7 +909,12 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"affinity": 15,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -1015,10 +1018,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -1040,7 +1039,12 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"affinity": 15,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1100,10 +1104,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 221,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -1125,7 +1125,12 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"affinity": 15,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1185,10 +1190,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 2],
@@ -1210,7 +1211,12 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"affinity": -10,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1270,10 +1276,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 260,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 2],
@@ -1295,7 +1297,12 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"affinity": -10,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1355,9 +1362,6 @@
 	"type": "light-bowgun",
 	"rarity": 2,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1379,7 +1383,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1439,9 +1446,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1463,7 +1467,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1523,9 +1530,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1547,7 +1551,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1607,10 +1614,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 2,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1632,7 +1635,11 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1692,10 +1699,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 234,
-		"slotsRank2": 2,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1717,7 +1720,11 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank2": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1777,11 +1784,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"slotsRank3": 1,
-		"slotsRank2": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 3],
 			"piercing": [1, 3, 0],
@@ -1803,7 +1805,12 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"slotsRank3": 1,
+		"slotsRank2": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1863,9 +1870,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 2, 2],
@@ -1887,7 +1891,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"affinity": 10,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -1947,10 +1955,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 2, 2],
@@ -1972,7 +1976,12 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"affinity": 10,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2032,10 +2041,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 2, 2],
@@ -2057,7 +2062,12 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"affinity": 20,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2117,10 +2127,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 247,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 2, 2],
@@ -2142,7 +2148,12 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"affinity": 20,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2202,9 +2213,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [4, 4, 0],
@@ -2226,7 +2234,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2286,9 +2297,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [4, 4, 0],
@@ -2310,7 +2318,10 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2370,10 +2381,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [4, 4, 0],
@@ -2395,7 +2402,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2455,10 +2466,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [4, 4, 0],
@@ -2480,7 +2487,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2540,10 +2551,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 234,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [4, 4, 0],
@@ -2565,7 +2572,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2625,9 +2636,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 3, 0],
@@ -2649,7 +2657,10 @@
 			"demon": [1],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2709,9 +2720,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 3, 0],
@@ -2733,7 +2741,10 @@
 			"demon": [1],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2793,9 +2804,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 3, 0],
@@ -2817,7 +2825,10 @@
 			"demon": [1],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2877,9 +2888,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 3, 0],
@@ -2901,7 +2909,10 @@
 			"demon": [1],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2961,9 +2972,6 @@
 	"type": "light-bowgun",
 	"rarity": 1,
 	"attributes": {
-		"attack": 143,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -2985,7 +2993,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 143,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -3012,9 +3023,6 @@
 	"type": "light-bowgun",
 	"rarity": 1,
 	"attributes": {
-		"attack": 156,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3036,7 +3044,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 156,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3063,9 +3074,6 @@
 	"type": "light-bowgun",
 	"rarity": 2,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3087,7 +3095,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3125,9 +3136,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3149,7 +3157,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3198,9 +3209,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3222,7 +3230,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3271,9 +3282,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3295,7 +3303,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3344,10 +3355,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"slotsRank2": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3369,7 +3376,11 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"slotsRank2": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -3462,10 +3473,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"slotsRank3": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 0, 0],
@@ -3487,7 +3494,11 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"slotsRank3": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3547,10 +3558,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 247,
-		"slotsRank2": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [4, 0, 2],
@@ -3572,7 +3579,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"slotsRank2": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3632,10 +3643,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 260,
-		"slotsRank2": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [4, 0, 2],
@@ -3657,7 +3664,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"slotsRank2": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3717,9 +3728,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 195,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 2, 2],
@@ -3741,7 +3749,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"affinity": -30,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3790,9 +3802,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 221,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 2, 2],
@@ -3814,7 +3823,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"affinity": -30,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3874,9 +3887,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 234,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 2, 2],
@@ -3898,7 +3908,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"affinity": -30,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3958,9 +3972,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 260,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 2, 2],
@@ -3982,7 +3993,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"affinity": -30,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4042,9 +4057,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 273,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 2, 2],
@@ -4066,7 +4078,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 273,
+		"affinity": -30,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4126,9 +4142,6 @@
 	"type": "light-bowgun",
 	"rarity": 2,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4150,7 +4163,10 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4210,9 +4226,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4234,7 +4247,10 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4294,9 +4310,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4318,7 +4331,10 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4378,10 +4394,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 2,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4403,7 +4415,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4463,10 +4479,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 234,
-		"slotsRank1": 2,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4488,7 +4500,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4548,10 +4564,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"slotsRank1": 2,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 0],
 			"piercing": [3, 2, 0],
@@ -4573,7 +4585,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"slotsRank1": 2,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4633,10 +4649,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"slotsRank2": 2,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 0, 0],
@@ -4658,7 +4670,11 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"slotsRank2": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4707,10 +4723,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 234,
-		"slotsRank2": 2,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 4, 2],
 			"piercing": [3, 0, 0],
@@ -4732,7 +4744,11 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank2": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4792,9 +4808,6 @@
 	"type": "light-bowgun",
 	"rarity": 2,
 	"attributes": {
-		"attack": 169,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -4816,7 +4829,11 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 169,
+		"affinity": -20,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4865,9 +4882,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -4889,7 +4903,11 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"affinity": -20,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4949,9 +4967,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 208,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -4973,7 +4988,11 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"affinity": -20,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5033,10 +5052,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 234,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -5058,7 +5073,12 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"affinity": -20,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5118,10 +5138,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 247,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -5143,7 +5159,12 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 247,
+		"affinity": -20,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5203,10 +5224,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 260,
-		"slotsRank1": 1,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 2],
 			"piercing": [5, 0, 0],
@@ -5228,7 +5245,12 @@
 			"demon": [0],
 			"armor": [1],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"affinity": -20,
+		"slotsRank1": 1,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5288,9 +5310,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 195,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 0],
 			"piercing": [5, 2, 2],
@@ -5312,7 +5331,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 195,
+		"affinity": 15,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5361,9 +5384,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 208,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 0],
 			"piercing": [5, 2, 2],
@@ -5385,7 +5405,11 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"affinity": 15,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5445,10 +5469,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 221,
-		"slotsRank1": 1,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 0],
 			"piercing": [5, 2, 2],
@@ -5470,7 +5490,12 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"affinity": 30,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5530,10 +5555,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 234,
-		"slotsRank1": 1,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [4, 3, 0],
 			"piercing": [5, 2, 2],
@@ -5555,7 +5576,12 @@
 			"demon": [1],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"affinity": 30,
+		"slotsRank1": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5615,9 +5641,6 @@
 	"type": "light-bowgun",
 	"rarity": 3,
 	"attributes": {
-		"attack": 130,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 0, 0],
 			"piercing": [4, 0, 0],
@@ -5639,7 +5662,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 130,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5699,9 +5725,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 143,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 0, 0],
 			"piercing": [4, 0, 0],
@@ -5723,7 +5746,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 143,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5772,10 +5798,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 0, 0],
 			"piercing": [4, 0, 0],
@@ -5797,7 +5819,11 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5857,10 +5883,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 208,
-		"slotsRank1": 1,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 0, 0],
@@ -5882,7 +5904,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5942,10 +5968,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 221,
-		"slotsRank1": 1,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [1, 1, 0],
 			"piercing": [1, 0, 0],
@@ -5967,7 +5989,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"slotsRank1": 1,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6027,9 +6053,6 @@
 	"type": "light-bowgun",
 	"rarity": 4,
 	"attributes": {
-		"attack": 143,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [4, 4, 0],
@@ -6051,7 +6074,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 143,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6111,9 +6137,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 182,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [4, 4, 0],
@@ -6135,7 +6158,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 182,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6195,9 +6221,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 208,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [4, 4, 0],
@@ -6219,7 +6242,10 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 208,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6279,9 +6305,6 @@
 	"type": "light-bowgun",
 	"rarity": 5,
 	"attributes": {
-		"attack": 130,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 0, 0],
 			"piercing": [4, 0, 0],
@@ -6303,7 +6326,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 130,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -6363,9 +6389,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 143,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 0, 0],
 			"piercing": [4, 0, 0],
@@ -6387,7 +6410,10 @@
 			"demon": [2],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 143,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6447,10 +6473,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 221,
-		"slotsRank2": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 2],
 			"piercing": [3, 2, 1],
@@ -6472,7 +6494,12 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 221,
+		"affinity": 10,
+		"slotsRank2": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6532,10 +6559,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 234,
-		"slotsRank2": 1,
-		"deviation": "Low",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 2],
 			"piercing": [3, 2, 1],
@@ -6557,7 +6580,12 @@
 			"demon": [0],
 			"armor": [2],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"affinity": 10,
+		"slotsRank2": 1,
+		"deviation": "Low",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6617,10 +6645,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 234,
-		"slotsRank3": 2,
-		"deviation": "Average",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 0, 3],
 			"piercing": [0, 3, 2],
@@ -6642,7 +6666,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank3": 2,
+		"deviation": "Average",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6702,10 +6730,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 234,
-		"slotsRank2": 1,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -6727,7 +6751,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 234,
+		"slotsRank2": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -6787,10 +6815,6 @@
 	"type": "light-bowgun",
 	"rarity": 8,
 	"attributes": {
-		"attack": 260,
-		"slotsRank3": 1,
-		"deviation": "None",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [6, 4, 3],
 			"piercing": [5, 3, 0],
@@ -6812,7 +6836,11 @@
 			"demon": [0],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 260,
+		"slotsRank3": 1,
+		"deviation": "None",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,
@@ -6872,9 +6900,6 @@
 	"type": "light-bowgun",
 	"rarity": 6,
 	"attributes": {
-		"attack": 273,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [0, 0, 2],
@@ -6896,7 +6921,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 273,
+		"affinity": -25,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": true,
@@ -6956,9 +6985,6 @@
 	"type": "light-bowgun",
 	"rarity": 7,
 	"attributes": {
-		"attack": 299,
-		"deviation": "High",
-		"specialAmmo": "Wyvernblast",
 		"ammoCapacities": {
 			"normal": [3, 2, 1],
 			"piercing": [0, 0, 2],
@@ -6980,7 +7006,11 @@
 			"demon": [2],
 			"armor": [0],
 			"tranq": [2]
-		}
+		},
+		"attack": 299,
+		"affinity": -25,
+		"deviation": "High",
+		"specialAmmo": "Wyvernblast"
 	},
 	"crafting": {
 		"craftable": false,

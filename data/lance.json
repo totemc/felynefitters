@@ -440,7 +440,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 12,
-		"sharpnessBlue": 18
+		"sharpnessBlue": 18,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -508,7 +509,8 @@
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 13,
-		"sharpnessBlue": 20
+		"sharpnessBlue": 20,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
@@ -826,6 +828,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 253,
+		"affinity": 15,
 		"sharpnessRed": 17,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
@@ -879,6 +882,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 276,
+		"affinity": 15,
 		"sharpnessRed": 20,
 		"sharpnessOrange": 12,
 		"sharpnessYellow": 20,
@@ -943,6 +947,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 299,
+		"affinity": 15,
 		"sharpnessRed": 15,
 		"sharpnessOrange": 12,
 		"sharpnessYellow": 20,
@@ -1007,6 +1012,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 345,
+		"affinity": 25,
 		"elementHidden": true,
 		"elementDamage": 300,
 		"elementType": "Sleep",
@@ -1108,6 +1114,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 368,
+		"affinity": 25,
 		"elementHidden": true,
 		"elementDamage": 330,
 		"elementType": "Sleep",
@@ -1176,6 +1183,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 391,
+		"affinity": 25,
 		"elementHidden": true,
 		"elementDamage": 360,
 		"elementType": "Sleep",
@@ -2097,6 +2105,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 299,
+		"affinity": 10,
 		"elementDamage": 180,
 		"elementType": "Fire",
 		"sharpnessRed": 12,
@@ -2163,6 +2172,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 322,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -2230,6 +2240,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 391,
+		"affinity": 10,
 		"slotsRank1": 1,
 		"elementDamage": 240,
 		"elementType": "Fire",
@@ -2298,6 +2309,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 414,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -2366,6 +2378,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 437,
+		"affinity": 20,
 		"slotsRank1": 1,
 		"elementDamage": 300,
 		"elementType": "Fire",
@@ -2833,7 +2846,8 @@
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 10,
-		"sharpnessBlue": 5
+		"sharpnessBlue": 5,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -2901,7 +2915,8 @@
 		"sharpnessOrange": 17,
 		"sharpnessYellow": 5,
 		"sharpnessGreen": 5,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "average"
 	},
 	"crafting": {
 		"craftable": false,
@@ -3331,6 +3346,7 @@
 	"rarity": 2,
 	"attributes": {
 		"attack": 253,
+		"affinity": -20,
 		"sharpnessRed": 17,
 		"sharpnessOrange": 13,
 		"sharpnessYellow": 12,
@@ -3384,6 +3400,7 @@
 	"rarity": 3,
 	"attributes": {
 		"attack": 276,
+		"affinity": -20,
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
@@ -3448,6 +3465,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 345,
+		"affinity": -20,
 		"sharpnessRed": 25,
 		"sharpnessOrange": 17,
 		"sharpnessYellow": 8,
@@ -3512,6 +3530,7 @@
 	"rarity": 5,
 	"attributes": {
 		"attack": 391,
+		"affinity": -20,
 		"slotsRank1": 1,
 		"elementHidden": true,
 		"elementDamage": 300,
@@ -3580,6 +3599,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 437,
+		"affinity": -20,
 		"slotsRank1": 2,
 		"elementHidden": true,
 		"elementDamage": 330,
@@ -3648,6 +3668,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 460,
+		"affinity": -20,
 		"slotsRank2": 1,
 		"slotsRank1": 1,
 		"elementHidden": true,
@@ -3718,6 +3739,7 @@
 	"rarity": 4,
 	"attributes": {
 		"attack": 299,
+		"affinity": 15,
 		"sharpnessRed": 22,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
@@ -3839,6 +3861,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 345,
+		"affinity": 30,
 		"elementHidden": true,
 		"elementDamage": 180,
 		"elementType": "Fire",
@@ -3907,6 +3930,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 391,
+		"affinity": 30,
 		"elementHidden": true,
 		"elementDamage": 210,
 		"elementType": "Fire",
@@ -4382,7 +4406,8 @@
 		"sharpnessRed": 27,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 10
+		"sharpnessGreen": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4448,7 +4473,8 @@
 		"sharpnessRed": 17,
 		"sharpnessOrange": 18,
 		"sharpnessYellow": 7,
-		"sharpnessGreen": 20
+		"sharpnessGreen": 20,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4505,7 +4531,8 @@
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
 		"sharpnessGreen": 10,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -4566,6 +4593,7 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 414,
+		"affinity": -10,
 		"elementDamage": 180,
 		"elementType": "Blast",
 		"sharpnessRed": 27,
@@ -4633,6 +4661,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 460,
+		"affinity": -10,
 		"elementDamage": 210,
 		"elementType": "Blast",
 		"sharpnessRed": 17,
@@ -4766,6 +4795,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 345,
+		"affinity": 10,
 		"elementDamage": 480,
 		"elementType": "Thunder",
 		"sharpnessRed": 27,
@@ -4833,6 +4863,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 368,
+		"affinity": 10,
 		"elementDamage": 540,
 		"elementType": "Thunder",
 		"sharpnessRed": 27,
@@ -4904,7 +4935,8 @@
 		"elementType": "Dragon",
 		"sharpnessRed": 37,
 		"sharpnessOrange": 28,
-		"sharpnessYellow": 10
+		"sharpnessYellow": 10,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": true,
@@ -4970,7 +5002,8 @@
 		"sharpnessRed": 35,
 		"sharpnessOrange": 27,
 		"sharpnessYellow": 10,
-		"sharpnessGreen": 3
+		"sharpnessGreen": 3,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5031,6 +5064,7 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 391,
+		"affinity": 10,
 		"slotsRank2": 1,
 		"elementDamage": 210,
 		"elementType": "Ice",
@@ -5099,6 +5133,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 414,
+		"affinity": 10,
 		"slotsRank2": 1,
 		"elementDamage": 240,
 		"elementType": "Ice",
@@ -5167,6 +5202,7 @@
 	"rarity": 8,
 	"attributes": {
 		"attack": 391,
+		"affinity": 15,
 		"slotsRank3": 2,
 		"elementDamage": 180,
 		"elementType": "Dragon",
@@ -5175,7 +5211,8 @@
 		"sharpnessYellow": 15,
 		"sharpnessGreen": 20,
 		"sharpnessBlue": 10,
-		"sharpnessWhite": 2
+		"sharpnessWhite": 2,
+		"elderseal": "low"
 	},
 	"crafting": {
 		"craftable": false,
@@ -5374,13 +5411,15 @@
 	"rarity": 6,
 	"attributes": {
 		"attack": 483,
+		"affinity": -25,
 		"elementDamage": 150,
 		"elementType": "Dragon",
 		"sharpnessRed": 15,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 7
+		"sharpnessBlue": 7,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": true,
@@ -5441,13 +5480,15 @@
 	"rarity": 7,
 	"attributes": {
 		"attack": 529,
+		"affinity": -25,
 		"elementDamage": 210,
 		"elementType": "Dragon",
 		"sharpnessRed": 12,
 		"sharpnessOrange": 30,
 		"sharpnessYellow": 20,
 		"sharpnessGreen": 15,
-		"sharpnessBlue": 10
+		"sharpnessBlue": 10,
+		"elderseal": "high"
 	},
 	"crafting": {
 		"craftable": false,
