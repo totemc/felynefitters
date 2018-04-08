@@ -1,18 +1,68 @@
 import React from 'react'
 import GearHolder from './GearHolder';
 import Summary from './Summary';
+import Grid from 'material-ui/Grid';
+import Card, { CardContent, CardActions, CardText } from 'material-ui/Card';
+import Collapse from 'material-ui/transitions/Collapse';
+import IconButton from 'material-ui/IconButton';
+import classnames from 'classnames';
+
+const styles = {
+	card: {
+		margin: "15px"
+	}
+}
 
 class GearController extends React.Component{
 
-  render (){
-    return(
-        <div>
-        gear controller component
-        <GearHolder/>
-        <Summary/>
-        </div>
-    );
-  }
+	state = {expanded : false};
+
+	handleExpandClick = () => {
+	  this.setState({ expanded: !this.state.expanded });
+	};
+
+  	render (){
+  		const {classes}= this.props;
+    	return(
+	        <Grid container spacing={24}>
+	        	<Grid item lg={4}>
+	       			<GearHolder/>
+	       		</Grid>
+	       		<Grid item lg={4}>
+	        		<Summary/>
+	        	</Grid>
+	        	<Grid item lg={4}>
+	        		<Card style={styles.card}>
+	        			<CardContent>
+	        				Head
+	        			</CardContent>
+	        		</Card>
+	        		<Card style={styles.card}>
+	        			<CardContent>
+	        				Chest
+	        			</CardContent>
+	        		</Card>
+	        		<Card style={styles.card}>
+	        			<CardContent>
+	        				Hand
+	        			</CardContent>
+	        		</Card>
+	        		<Card style={styles.card}>
+	        			<CardContent>
+	        				Waist
+	        			</CardContent>
+	        		</Card>
+	        		<Card style={styles.card}>
+	        			<CardContent>
+	        				Feet
+	        			</CardContent>
+	        			<Collapse in={true}>
+	        			</Collapse>
+	        		</Card>
+	        	</Grid>
+        	</Grid>
+    	);
+	}
 
 
 }

@@ -13,14 +13,16 @@ class App extends Component {
   render() {
     return (
         <div>
-          <AppBar >
+          <AppBar className="flexgrow">
             <ToolBar style={{ backgroundColor: green500 }}>
               <Typography variant="title" color="inherit" >
                 Felyne Fitters
               </Typography>
             </ToolBar>
-          </AppBar>          
-          <GearController/>
+          </AppBar>
+          <div style={{ marginTop: "64px" }}>        
+            <GearController/>
+          </div>
         </div>
     );
   }
