@@ -1,19 +1,27 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import GearController from './components/GearController.js';
 import AppBar from 'material-ui/AppBar';
-import {green500} from 'material-ui/styles/colors';
+import ToolBar from 'material-ui/Toolbar';
+import Button from 'material-ui/Button';
+import Typography from 'material-ui/Typography';
+import green from 'material-ui/colors/green';
 
-
+const green500 = green[500];
 class App extends Component {
   render() {
     return (
-      <MuiThemeProvider>
-          <AppBar title="Felyne Fitters" style={{"backgroundColor" : green500}} titleStyle={{"textAlign":"center"}} iconClassNameLeft="none"/>
+        <div>
+          <AppBar >
+            <ToolBar style={{ backgroundColor: green500 }}>
+              <Typography variant="title" color="inherit" >
+                Felyne Fitters
+              </Typography>
+            </ToolBar>
+          </AppBar>          
           <GearController/>
-      </MuiThemeProvider>
+        </div>
     );
   }
 }
