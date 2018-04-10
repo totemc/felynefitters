@@ -22,6 +22,14 @@ yarn webpack
 
 in another terminal in order to have the ```bundle.js``` compiled and watched. Visit localhost:3000 to view the running application. Since the application is being watched, saving a document will automatically refresh the browser to reflect the changes.
 
+If running on a Unix machine, refer to the pm2 documentation on starting and stopping the dev process. If using the script in the repository, running 
+
+```
+yarn pm2 stop server
+```
+
+will correctly kill the process.
+
 ### Build (Building) With
 * React
 * Redux (implementing soon)
