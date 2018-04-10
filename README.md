@@ -2,17 +2,29 @@
 Closing the gap between armor builds and players.
 
 ## Getting Started
-To run a development build of this code, clone the repository onto your machine, make sure you have yarn installed, and run
+To run a development build of this code, clone the repository onto your machine, make sure you have yarn installed, and run ```yarn``` to install all dependencies. If you are on a Unix machine, then go ahead and run
 
 ```
 yarn dev
 ```
 
-in the root of the project. Check your terminal for the port you need to connect to in order to interact with the project.
+or if you're on a Windows machine,
+
+```
+yarn wdev
+```
+
+in one terminal, and
+
+```
+yarn webpack
+```
+
+in another terminal in order to have the ```bundle.js``` compiled and watched. Visit localhost:3000 to view the running application. Since the application is being watched, saving a document will automatically refresh the browser to reflect the changes.
 
 ### Build (Building) With
 * React
-* Redux
+* Redux (implementing soon)
 * Express
 * Node
 * MongoDB
