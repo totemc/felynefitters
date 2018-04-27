@@ -4,8 +4,9 @@
   "main": "lib/server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
-    "wdev": "nodemon --exec babel-node lib/server.js",
+    "dev": "NODE_PATH=./lib pm2 start lib/server.js --watch --interpreter babel-node",
+    "mondev": "NODE_PATH=./lib nodemon --exec babel-node lib/server.js",
+    "wdev": "set NODE_PATH=./lib&& nodemon --exec babel-node lib/server.js",
     "webpack": "webpack -wd"
   },
   "babel": {
